@@ -1,0 +1,10 @@
+{
+  "require": {
+    "tightenco/jigsaw": "^1.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "Maizzle\\Tasks\\": "tasks/php"
+    }
+  }
+}
