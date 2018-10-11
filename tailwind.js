@@ -32,6 +32,21 @@ View the full documentation at https://tailwindcss.com.
 */
 
 let colors = {
+
+  // Algolia
+  'algolia-bg': '#f2f2f7',
+  'algolia-heading': '#1f1c3f',
+  'algolia-copy': '#495588',
+  'algolia-link': '#00aeff',
+  'algolia-address': '#8994c6',
+  'algolia-unsub': '#c4c8d8',
+
+  // Social networks
+  'github': '#41454E',
+  'facebook': '#4267b2',
+  'twitter': '#1da1f2',
+  'linkedin': '#0077B5',
+
   'transparent': 'transparent',
   'inherit': 'inherit',
 
@@ -223,6 +238,13 @@ module.exports = {
   */
 
   fonts: {
+    'montserrat': [
+      'Montserrat',
+      '-apple-system',
+      'Segoe UI',
+      'Helvetica',
+      'sans-serif',
+    ],
     'open-sans': [
       'Open Sans',
       '-apple-system',
@@ -274,7 +296,8 @@ module.exports = {
 
   textSizes: {
     '0': '0',
-    'xs': '12px',
+    'xxs': '12px',
+    'xs': '13px',
     'sm': '14px',
     'base': '16px',
     'lg': '18px',
@@ -336,6 +359,7 @@ module.exports = {
     '14': '14px',
     '16': '16px',
     '20': '20px',
+    '22': '22px',
     '24': '24px',
     '32': '32px',
     '40': '40px',
@@ -530,6 +554,11 @@ module.exports = {
     '5-6': '83.33333%',
     '1-6': '16.66667%',
     'full': '100%',
+
+    // Algolia
+    '140': '140px',
+    '165': '165px',
+    '520': '520px',
   },
 
 
@@ -698,6 +727,7 @@ module.exports = {
     'px': '1px',
     '2': '2px',
     '4': '4px',
+    '6': '6px',
     '8': '8px',
     '10': '10px',
     '12': '12px',

@@ -75,6 +75,6 @@ return [
     'production' => true,
     'build' => [
         'source' => 'source',
-        'destination' => 'build_staging',
+        'destination' => 'build',
     ],
 ];
