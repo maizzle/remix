@@ -1,7 +1,5 @@
 <p align="center">
-    <a href="https://maizzle.com/" target="_blank">
-        <img width="250" src="https://maizzle.com/img/maizzle.svg" alt="Maizzle">
-    </a>
+    <a href="https://maizzle.com/" target="_blank"><img width="256" src="https://maizzle.com/img/maizzle.png" alt="Maizzle"></a>
     <br>
     <strong>REMIX</strong>
 </p>
@@ -10,7 +8,7 @@
 
 ## Description
 
-Maizzle REMIX is a showcase of email re-design experiments.
+Maizzle REMIX is a showcase of email redesign experiments.
 
 It provides examples of using [Maizzle](https://maizzle.com/) to rebuild really good looking emails from scratch.
 
