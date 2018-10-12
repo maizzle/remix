@@ -14,25 +14,25 @@ It provides examples of using [Maizzle](https://maizzle.com/) to rebuild really 
 
 ## Purpose
 
-The goal is to show the importance of clean code in email development, and how an optimized workflow (like Maizzle!) can help you stay organized and automate many tedious tasks, such as writing inline CSS or working based on a design system.
+The goal is to show the importance of clean code in email development, and how an optimized workflow (like Maizzle!) can help you stay organized and automate many tedious tasks, such as writing inline CSS or working with a design system.
 
 The goal is definitely _not_ to tell anyone how they should code their emails. Use as inspiration, not as 'best practice'.
 
 ## Rules
 
-These are the rules that any Maizzle REMIX experiment will follow.
+These are the rules that any Maizzle REMIX needs to follow.
 
 #### Privacy & Security
 
 - Any sensitive data, such as private content or links, will be replaced with dummy data.
 
-- Experiments will only be made on layouts that are publicly accessible (web versions, [CodePen](https://codepen.io/maizzle), [RGE](https://reallygoodemails.com/) or [curated.email](https://curated.email/)).
+- Experiments will only be made on layouts that are either publicly accessible (web versions, [CodePen](https://codepen.io/maizzle), [RGE](https://reallygoodemails.com/) or [curated.email](https://curated.email/)), or that we have subscribed to and received ourselves.
 
 - Images must be directly referenced from the online version of the original. When unavailable, they will be replaced with placeholders from an online service.
 
 #### Built to resemble the original
 
-Re-designs should be as close as possible to the original's layout, color palette, and content.
+REMIXes should be as close as possible to the original's layout, color palette, and content.
 
 #### Responsive-only
 
