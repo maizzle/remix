@@ -41,6 +41,11 @@ let colors = {
   'algolia-address': '#8994c6',
   'algolia-unsub': '#c4c8d8',
 
+  // Asana
+  'asana-red': '#FF5263',
+  'asana-grey': '#F6F8F9',
+  'asana-indigo': '#796EFF',
+
   // Social networks
   'github': '#41454E',
   'facebook': '#4267b2',
@@ -735,9 +740,11 @@ module.exports = {
     '16': '16px',
     '20': '20px',
     '24': '24px',
+    '26': '26px',
     '32': '32px',
     '40': '40px',
     '48': '48px',
+    '60': '60px',
     '64': '64px',
     '128': '128px',
     '256': '256px',
@@ -765,6 +772,7 @@ module.exports = {
     'px': '1px',
     '2': '2px',
     '4': '4px',
+    '6': '6px',
     '8': '8px',
     '10': '10px',
     '12': '12px',

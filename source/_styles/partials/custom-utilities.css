@@ -22,3 +22,12 @@
     display: table-caption;
   }
 }
+
+.asana-border {
+  @apply border border-solid;
+  border-color: #eff0f1;
+}
+
+.asana-content-padding {
+  @apply pt-40 pb-20 px-48;
+}
