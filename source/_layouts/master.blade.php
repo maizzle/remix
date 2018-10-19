@@ -1,5 +1,5 @@
 <!DOCTYPE {!! $page->doctype ?? 'html' !!}>
-<html lang="{{ $page->language ?? 'en' }}" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<html lang="{{ $page->language ?? 'en' }}" class="h-full" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
 <head>
   <meta charset="{{ $page->charset ?? 'utf8' }}">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -14,7 +14,7 @@
   @include('_partials.css.email')
   @stack('head')
 </head>
-<body class="{{ $page->bodyClasses ?? '' }}">
+<body class="h-full {{ $page->bodyClasses ?? '' }}">
 
   @if($page->preheader)
   <div class="hidden text-0 leading-0">{!! $page->preheader !!}</div>

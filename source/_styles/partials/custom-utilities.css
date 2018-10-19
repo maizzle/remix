@@ -31,3 +31,9 @@
 .asana-content-padding {
   @apply pt-40 pb-20 px-48;
 }
+
+@screen sm {
+  .sm-dui17-b-t {
+  @apply border-solid border-0 border-t-4 border-blue;
+  }
+}

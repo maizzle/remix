@@ -46,6 +46,9 @@ let colors = {
   'asana-grey': '#F6F8F9',
   'asana-indigo': '#796EFF',
 
+  // DailyUI 17 Email Receipt
+  'skin': '#f5dbce',
+
   // Social networks
   'github': '#41454E',
   'facebook': '#4267b2',
@@ -301,6 +304,7 @@ module.exports = {
 
   textSizes: {
     '0': '0',
+    'xxxs': '10px',
     'xxs': '12px',
     'xs': '13px',
     'sm': '14px',
@@ -366,6 +370,7 @@ module.exports = {
     '20': '20px',
     '22': '22px',
     '24': '24px',
+    '28': '28px',
     '32': '32px',
     '40': '40px',
     '48': '48px',
@@ -564,6 +569,9 @@ module.exports = {
     '140': '140px',
     '165': '165px',
     '520': '520px',
+
+    // DailyUI 17 Email Receipt
+    '160': '160px',
   },
 
 
@@ -1040,7 +1048,7 @@ module.exports = {
   */
 
   plugins: [
-    require('./tailwind/plugins/extraBorderUtilities'),
+    // require('./tailwind/plugins/extraBorderUtilities'),
     require('./tailwind/plugins/gradients')
   ],
 
