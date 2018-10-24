@@ -36,7 +36,7 @@ preheader: Meet our new Hulu, HBO, Amazon Prime and Netflix randomizer for when 
           </td>
         </tr>
         <tr>
-          <td>
+          <td align="center">
             <a href="https://reelgood.com/roulette/netflix" class="no-underline">
               <img src="https://gallery.mailchimp.com/00c29eb8cfb01a29f8910f559/images/95b78916-8b35-4d98-99f7-2449fe5fbe47.png" alt="Reelgood Netlif Roulette" class="w-600">
             </a>
