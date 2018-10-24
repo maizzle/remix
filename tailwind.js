@@ -49,6 +49,15 @@ let colors = {
   // DailyUI 17 Email Receipt
   'skin': '#f5dbce',
 
+  // Reelgood
+  'reelgood-black': '#081017',
+  'reelgood-darkest': '#6b6b6b',
+  'reelgood-darker': '#8d8d8d',
+  'reelgood-grey': '#b3b3b3',
+  'reelgood-grey-lighter': '#d3d3d3',
+  'reelgood-green': '#00DC89',
+  'reelgood-divider': '#727272',
+
   // Social networks
   'github': '#41454E',
   'facebook': '#4267b2',
@@ -268,6 +277,11 @@ module.exports = {
     'sans': [
       '-apple-system',
       'Segoe UI',
+      'sans-serif',
+    ],
+    'helvetica': [
+      'Helvetica',
+      'Arial',
       'sans-serif',
     ],
     'serif': [
@@ -551,6 +565,7 @@ module.exports = {
     '64': '64px',
     '128': '128px',
     '256': '256px',
+    '560': '560px',
     '600': '600px',
     '1-2': '50%',
     '1-3': '33.33333%',
@@ -752,6 +767,7 @@ module.exports = {
     '32': '32px',
     '40': '40px',
     '48': '48px',
+    '56': '56px',
     '60': '60px',
     '64': '64px',
     '128': '128px',
@@ -789,6 +805,7 @@ module.exports = {
     '20': '20px',
     '24': '24px',
     '32': '32px',
+    '36': '36px',
     '40': '40px',
     '48': '48px',
     '64': '64px',

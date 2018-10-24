@@ -37,3 +37,15 @@
   @apply border-solid border-0 border-t-4 border-blue;
   }
 }
+
+@screen all {
+  .reelgood-btn {
+    @apply bg-reelgood-green;
+    background: linear-gradient(128deg,#00e18c,#00e36a);
+    transition: all 0.15s ease 0s;
+  }
+
+  .reelgood-btn:hover {
+    transform: scale(1.1);
+  }
+}

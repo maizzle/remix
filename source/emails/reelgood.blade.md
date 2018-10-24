@@ -1,0 +1,188 @@
+---
+title: Chat Roulette? No... Netflix Roulette? YES!
+preheader: Meet our new Hulu, HBO, Amazon Prime and Netflix randomizer for when you have no clue what to watch.
+---
+
+<table class="wrapper w-full bg-reelgood-black" cellpadding="0" cellspacing="0" role="presentation">
+  <tr>
+    <td align="center" class="w-full sm-px-10 pb-40">
+      <table class="w-600 sm-w-full" cellpadding="0" cellspacing="0" role="presentation">
+        <tr>
+          <td class="py-20 sm-px-10 text-right">
+            <a href="https://example.com" class="text-xxxs sm-text-sm text-reelgood-darker all-font-helvetica underline">View this email in your browser</a>
+          </td>
+        </tr>
+        <tr>
+          <td align="left" class="px-20 py-10">
+            <a href="https://reelgood.com" class="no-underline">
+              <img src="https://gallery.mailchimp.com/00c29eb8cfb01a29f8910f559/images/4049cc4f-320b-47a6-90b6-bff9b87de245.png" alt="Reelgood" width="68">
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td align="left" class="py-48 px-20">
+            <h2 class="text-white text-2xl all-font-helvetica leading-32 m-0">Can't decide what to watch? Try Reelgood roulette and let chaos take control.</h2>
+          </td>
+        </tr>
+        <tr>
+          <td class="pb-56 px-20">
+            <table class="w-560 sm-w-full" cellpadding="0" cellspacing="0" role="presentation">
+              <tr>
+                <td class="bg-reelgood-green reelgood-btn rounded-full text-center" style="mso-padding-alt: 20px 0;">
+                  <a href="https://reelgood.com/roulette/netflix" class="block text-reelgood-black text-lg font-bold all-font-helvetica leading-full py-20 no-underline">Take A Spin</a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="https://reelgood.com/roulette/netflix" class="no-underline">
+              <img src="https://gallery.mailchimp.com/00c29eb8cfb01a29f8910f559/images/95b78916-8b35-4d98-99f7-2449fe5fbe47.png" alt="Reelgood Netlif Roulette" class="w-600">
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table class="w-full" cellpadding="0" cellspacing="0" role="presentation">
+              <tr>
+                <td class="pt-60 pb-48 px-20 sm-pt-32 sm-pb-24">
+                  <div class="bg-reelgood-divider h-2 leading-2">&zwnj;</div>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td align="left" class="px-20">
+            <h2 class="text-white text-2xl all-font-helvetica leading-32 m-0 mb-36">Did you know Reelgood supports over 250 different on demand sources?</h2>
+            <p class="text-reelgood-grey text-lg all-font-helvetica break-words m-0">From Netflix to Spike to Amazon to HGTV. Connect them all and never use another app for streaming.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="pt-48 px-20">
+            <table class="w-full" cellpadding="0" cellspacing="0" role="presentation">
+              <tr>
+                <td class="bg-reelgood-green reelgood-btn rounded-full text-center" style="mso-padding-alt: 20px 0;">
+                  <a href="https://reelgood.com/more-sources?go=/home" class="block text-reelgood-black text-lg font-bold all-font-helvetica leading-full py-20 no-underline">Connect All Your Sources</a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table class="w-full" cellpadding="0" cellspacing="0" role="presentation">
+              <tr>
+                <td class="py-56 px-20 sm-py-32">
+                  <div class="bg-reelgood-divider h-2 leading-2">&zwnj;</div>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td align="center" class="pb-48 sm-pb-32">
+            <h3 class="text-reelgood-grey-lighter all-font-helvetica text-lg m-0">Trending Now</h3>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table class="w-full" cellpadding="0" cellspacing="0" role="presentation">
+              <tr valign="top">
+                <td align="left" class="w-1-3 sm-inline-block sm-w-full px-20 sm-pb-32 all-font-helvetica">
+                  <a href="https://reelgood.com/show/this-is-us-2016" class="no-underline">
+                    <img class="sm-w-full" src="https://gallery.mailchimp.com/00c29eb8cfb01a29f8910f559/images/91ed43b4-4a85-4ac4-8e98-741083d448ce.jpg" alt="This Is Us" width="164">
+                  </a>
+                  <p class="text-reelgood-darker text-xs font-bold mb-6 mt-12">This Is Us</p>
+                  <p class="text-reelgood-darker text-xxs m-0">IMDB 8.8 | Hulu</p>
+                </td>
+                <td align="left" class="w-1-3 sm-inline-block sm-w-full px-20 sm-pb-32 all-font-helvetica">
+                  <a href="https://reelgood.com/show/american-horror-story-2011" class="no-underline">
+                    <img class="sm-w-full" src="https://gallery.mailchimp.com/00c29eb8cfb01a29f8910f559/images/a07faf0c-33f7-4a21-a227-f3b6861f913a.jpg" alt="American Horror Story" width="164">
+                  </a>
+                  <p class="text-reelgood-darker text-xs font-bold mb-6 mt-12">American Horror Story</p>
+                  <p class="text-reelgood-darker text-xxs m-0">IMDB 8.2 | Amazon Prime</p>
+                </td>
+                <td align="left" class="w-1-3 sm-inline-block sm-w-full px-20 sm-pb-32 all-font-helvetica">
+                  <a href="https://reelgood.com/show/the-americans-2013" class="no-underline">
+                    <img class="sm-w-full" src="https://gallery.mailchimp.com/00c29eb8cfb01a29f8910f559/images/8b9167fa-7d17-491d-b3ae-aa272a94a7de.jpg" alt="The Americans" width="164">
+                  </a>
+                  <p class="text-reelgood-darker text-xs font-bold mb-6 mt-12">The Americans</p>
+                  <p class="text-reelgood-darker text-xxs m-0">IMDB 8.3 | Amazon Prime</p>
+                </td>
+              </tr>
+              <tr>
+                <td class="h-40 sm-h-32 sm-hidden" colspan="3"></td>
+              </tr>
+              <tr>
+                <td align="left" class="w-1-3 sm-inline-block sm-w-full px-20 sm-pb-32 all-font-helvetica">
+                  <a href="https://reelgood.com/show/brooklyn-nine-nine-2013" class="no-underline">
+                    <img class="sm-w-full" src="https://gallery.mailchimp.com/00c29eb8cfb01a29f8910f559/images/18824974-62d6-4cce-9dad-8b3372eb5d46.jpg" alt="Brooklyn Nine-Nine" width="164">
+                  </a>
+                  <p class="text-reelgood-darker text-xs font-bold mb-6 mt-12">Brooklyn Nine-Nine</p>
+                  <p class="text-reelgood-darker text-xxs m-0">IMDB 8.3 | Hulu</p>
+                </td>
+                <td align="left" class="w-1-3 sm-inline-block sm-w-full px-20 sm-pb-32 all-font-helvetica">
+                  <a href="https://reelgood.com/show/will-grace-1998" class="no-underline">
+                    <img class="sm-w-full" src="https://gallery.mailchimp.com/00c29eb8cfb01a29f8910f559/images/e5bbb2fe-54ab-4962-8793-3f61fdc3f01d.jpg" alt="Will & Grace" width="164">
+                  </a>
+                  <p class="text-reelgood-darker text-xs font-bold mb-6 mt-12">Will &amp; Grace</p>
+                  <p class="text-reelgood-darker text-xxs m-0">IMDB 7.2 | Amazon Prime</p>
+                </td>
+                <td align="left" class="w-1-3 sm-inline-block sm-w-full px-20 sm-pb-32 all-font-helvetica">
+                  <a href="https://reelgood.com/show/stranger-things-2016" class="no-underline">
+                    <img class="sm-w-full" src="https://gallery.mailchimp.com/00c29eb8cfb01a29f8910f559/images/3bb7a3f5-16b6-4896-8bf8-a9b7b6f0f630.jpg" alt="Stranger Things" width="164">
+                  </a>
+                  <p class="text-reelgood-darker text-xs font-bold mb-6 mt-12">Stranger Things</p>
+                  <p class="text-reelgood-darker text-xxs m-0">IMDB 8.9 | Netflix</p>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td class="py-60 px-20">
+            <table class="w-full" cellpadding="0" cellspacing="0" role="presentation">
+              <tr>
+                <td class="bg-reelgood-green reelgood-btn rounded-full text-center" style="mso-padding-alt: 20px 0;">
+                  <a href="https://reelgood.com/browse/popular-picks" class="block text-reelgood-black text-lg font-bold all-font-helvetica leading-full py-20 no-underline">More On Reelgood</a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td align="center" class="px-20 all-font-helvetica text-reelgood-darkest text-xxs sm-text-sm leading-20">
+            <p class="italic m-0">
+              Copyright &copy; 2017 reelgood, All rights reserved.
+            </p>
+            <p class="m-0 mb-20">
+              You are receiving this email as a subscriber to Reelgood
+            </p>
+
+            <p class="mb-20">
+              <strong>Our mailing address is:</strong>
+              <br>
+              reelgood
+              <br>
+              48 Sycamore St
+              <br>
+              San Francisco, CA 94110
+            </p>
+
+            <p class="m-0 mb-20">
+              <a href="https://reelgoodapp.us11.list-manage.com/vcard?u=00c29eb8cfb01a29f8910f559&id=c07c19745c" class="underline text-reelgood-darkest">Add us to your address book</a>
+            </p>
+
+            <p class="m-0">
+              Want to change how you receive these emails?
+              <br>
+              You can <a href="https://example.com" class="underline text-reelgood-darkest">update your preferences</a> or <a href="https://example.com" class="underline text-reelgood-darkest">unsubscribe</a> from this list.
+            </p>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
