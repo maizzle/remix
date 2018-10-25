@@ -58,6 +58,10 @@ let colors = {
   'reelgood-green': '#00DC89',
   'reelgood-divider': '#727272',
 
+  // Deal Shop Freebie
+  'dealshop-blue': '#4285f4',
+  'dealshop-blue-dark': '#3d7de3',
+
   // Social networks
   'github': '#41454E',
   'facebook': '#4267b2',
@@ -1029,7 +1033,7 @@ module.exports = {
     minHeight: ['responsive'],
     minWidth: ['responsive'],
     negativeMargin: ['responsive'],
-    opacity: ['responsive', 'group-hover'],
+    opacity: ['responsive', 'hover', 'group-hover'],
     overflow: ['responsive'],
     padding: ['responsive', 'hover'],
     pointerEvents: false,
