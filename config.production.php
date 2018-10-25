@@ -1,17 +1,5 @@
 <?php
 
-/*
-
-|-------------------------------------------------------------------------------
-| The production config           https://maizzle.com/docs/building/#production
-|-------------------------------------------------------------------------------
-|
-| This array contains the default Maizzle config for production. It's used
-| when you do `npm run production` in the command line, and it will be
-| merged on top of config.php.
-|
-*/
-
 return [
 
     'transformers' => [
@@ -41,10 +29,10 @@ return [
                     "#outlook",
                 ],
                 'removeHTMLComments' => [
-                    'enabled' => true,
+                    'enabled' => false,
                     'preserve' => ['if', 'endif', 'mso', 'ie'],
                 ],
-                'uglifyClassNames' => true,
+                'uglifyClassNames' => false,
             ],
             'keepOnlyAttributeSizes' => [
                 'width' => ['TABLE', 'TD', 'TH', 'IMG', 'VIDEO'],
@@ -52,25 +40,25 @@ return [
             ],
             'preferBgColorAttribute' => true,
         ],
-        'prettify' => false,
+        'prettify' => true,
         'minify' => [
-            'minifyCSS' => true,
-            'maxLineLength' => 500,
+            'minifyCSS' => false,
+            'maxLineLength' => false,
             'preserveLineBreaks' => false,
-            'collapseWhitespace' => true,
+            'collapseWhitespace' => false,
             'conservativeCollapse' => false,
-            'processConditionalComments' => true,
+            'processConditionalComments' => false,
         ],
         'sixHex' => true,
         'altText' => true,
     ],
 
-    'plaintext' => true,
+    'plaintext' => false,
 
     'baseUrl' => '',
     'production' => true,
     'build' => [
         'source' => 'source',
-        'destination' => 'build_production',
+        'destination' => 'dist',
     ],
 ];
