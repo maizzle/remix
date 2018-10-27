@@ -5,7 +5,7 @@ bodyClasses: bg-skin
 googleFonts: ['Roboto']
 ---
 
-<table class="wrapper w-full h-full" cellpadding="0" cellspacing="0" role="presentation">
+<table class="wrapper w-full h-full all-font-sans" cellpadding="0" cellspacing="0" role="presentation">
   <tr>
     <td align="center" class="w-full p-24">
       <table class="w-600 sm-w-full" cellpadding="0" cellspacing="0" role="presentation">
@@ -38,12 +38,12 @@ googleFonts: ['Roboto']
 
             <table class="w-full text-sm leading-28 sm-leading-32" cellpadding="0" cellspacing="0" role="presentation">
               <tr>
-                <td class="w-1-2 sm-w-fulls sm-inline-block text-grey-dark">Guest</td>
-                <td class="w-1-2 sm-w-fulls sm-inline-block text-right font-semibold">Jamie Doe</td>
+                <td class="w-1-2 sm-inline-block text-grey-dark">Guest</td>
+                <td class="w-1-2 sm-inline-block text-right font-semibold">Jamie Doe</td>
               </tr>
               <tr>
-                <td class="w-1-2 sm-w-fulls sm-inline-block text-grey-dark">Nights</td>
-                <td class="w-1-2 sm-w-fulls sm-inline-block text-right font-semibold">6</td>
+                <td class="w-1-2 sm-inline-block text-grey-dark">Nights</td>
+                <td class="w-1-2 sm-inline-block text-right font-semibold">6</td>
               </tr>
               <tr>
                 <td class="w-1-2 sm-w-1-4 sm-inline-block text-grey-dark">Address</td>

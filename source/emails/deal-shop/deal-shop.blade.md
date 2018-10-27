@@ -10,7 +10,7 @@ googleFonts: ['Montserrat']
         <tr>
           <td align="center" class="py-24">
             <h1 class="m-0">
-              <a href="https://maizzle.com" class="all-font-montserrat text-grey-dark no-underline text-2xl all-hover-opacity-75">
+              <a href="https://maizzle.com" class="all-font-montserrat text-grey-dark no-underline text-2xl hover-opacity-75">
                 <img src="logo.png" alt="" width="40" class="mr-6">
                 Deal Shop
               </a>
@@ -30,10 +30,10 @@ googleFonts: ['Montserrat']
           <td align="center" class="py-60">
             <img src="cart-hero.png" alt="" width="93">
             <h2 class="mt-24 mb-4 text-xl text-grey-darker all-font-montserrat">Your shopping cart has abandonment issues</h2>
-            <p class="m-0 mb-24 text-grey-dark">Save these items hours of therapy & give them a loving home.</p>
+            <p class="m-0 mb-24 text-base text-grey-dark all-font-sans">Save these items hours of therapy & give them a loving home.</p>
             <table cellpadding="0" cellspacing="0" role="presentation">
               <tr>
-                <th class="bg-dealshop-blue all-hover-bg-dealshop-blue-dark shadow-md rounded-full" style="mso-padding-alt: 16px 40px;">
+                <th class="bg-dealshop-blue hover-bg-dealshop-blue-dark shadow-md rounded-full" style="mso-padding-alt: 16px 40px;">
                   <a href="https://maizzle.com" class="block text-sm text-white all-font-montserrat font-semibold leading-full py-16 px-40 no-underline">Return to Shop</a>
                 </th>
               </tr>
@@ -183,7 +183,7 @@ googleFonts: ['Montserrat']
           <td align="center" class="py-24 sm-px-12">
             <table cellpadding="0" cellspacing="0" role="presentation">
               <tr>
-                <th class="bg-dealshop-blue all-hover-bg-dealshop-blue-dark shadow-md rounded-full" style="mso-padding-alt: 16px 40px;">
+                <th class="bg-dealshop-blue hover-bg-dealshop-blue-dark shadow-md rounded-full" style="mso-padding-alt: 16px 40px;">
                   <a href="https://maizzle.com" class="block text-sm text-white all-font-montserrat font-semibold leading-full py-16 px-40 no-underline">Return to Shop</a>
                 </th>
               </tr>
@@ -202,23 +202,23 @@ googleFonts: ['Montserrat']
     <td align="center" class="w-full">
       <table class="w-600 sm-w-full" cellpadding="0" cellspacing="0" role="presentation">
         <tr>
-          <td align="center" class="py-48 sm-px-12">
+          <td align="center" class="py-48 sm-px-12 all-font-sans">
             <h2 class="m-0 text-xl all-font-montserrat text-grey-darker">&copy; {{ date('Y') }} Deal Shop</h2>
             <p class="m-0 text-grey-dark text-xs">126-130 Crosby Street, Soho New York City, NY 10012, U.S.</p>
             <div class="leading-24">&zwnj;</div>
             <table cellpadding="0" cellspacing="0" role="presentation">
               <tr>
                 <td class="px-8 sm-block sm-text-center sm-py-8">
-                  <a href="https://maizzle.com" class="no-underline text-sm text-grey-dark all-hover-text-grey-darkest">Product</a>
+                  <a href="https://maizzle.com" class="no-underline text-sm text-grey-dark hover-text-grey-darkest">Product</a>
                 </td>
                 <td class="px-8 sm-block sm-text-center sm-py-8">
-                  <a href="https://maizzle.com" class="no-underline text-sm text-grey-dark all-hover-text-grey-darkest">Blog</a>
+                  <a href="https://maizzle.com" class="no-underline text-sm text-grey-dark hover-text-grey-darkest">Blog</a>
                 </td>
                 <td class="px-8 sm-block sm-text-center sm-py-8">
-                  <a href="https://maizzle.com" class="no-underline text-sm text-grey-dark all-hover-text-grey-darkest">Terms & Conditions</a>
+                  <a href="https://maizzle.com" class="no-underline text-sm text-grey-dark hover-text-grey-darkest">Terms & Conditions</a>
                 </td>
                 <td class="px-8 sm-block sm-text-center sm-py-8">
-                  <a href="https://maizzle.com" class="no-underline text-sm text-grey-dark all-hover-text-grey-darkest">Privacy</a>
+                  <a href="https://maizzle.com" class="no-underline text-sm text-grey-dark hover-text-grey-darkest">Privacy</a>
                 </td>
               </tr>
             </table>

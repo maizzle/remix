@@ -3,7 +3,7 @@ title: What if you could launch products 12x faster?
 preheader: What if you could launch products 12x faster?
 ---
 
-<table class="wrapper w-full" cellpadding="0" cellspacing="0" role="presentation">
+<table class="wrapper w-full all-font-sans" cellpadding="0" cellspacing="0" role="presentation">
   <tr>
     <td align="center" class="w-full px-10">
       <table class="w-600 sm-w-full" cellpadding="0" cellspacing="0" role="presentation">

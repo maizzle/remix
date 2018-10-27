@@ -16,11 +16,13 @@
 </head>
 <body class="h-full {{ $page->bodyClasses ?? '' }}">
 
+  <div lang="{{ $page->language ?? 'en' }}">
   @if($page->preheader)
   <div class="hidden text-0 leading-0">{!! $page->preheader !!}</div>
   @endif
 
   @yield('content')
+  </div>
 
 </body>
 </html>

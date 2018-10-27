@@ -16,11 +16,12 @@
 </head>
 <body class="{{ $page->bodyClasses ?? '' }}">
 
+  <div lang="{{ $page->language ?? 'en' }}">
   @if($page->preheader)
-  <div class="hidden text-0 leading-0">{!! $page->preheader !!}</div>
+  <div class="hidden text-0 leading-0" lang="{{ $page->language ?? 'en' }}">{!! $page->preheader !!}</div>
   @endif
 
-  <table class="wrapper w-full bg-white" cellpadding="0" cellspacing="0" role="presentation">
+  <table class="wrapper w-full bg-white" cellpadding="0" cellspacing="0" lang="{{ $page->language ?? 'en' }}" role="presentation">
     <tr>
       <td align="center">
         <table class="w-600 sm-w-full" cellpadding="0" cellspacing="0" role="presentation">
@@ -32,9 +33,9 @@
                     <img src="img/maizzle.png" alt="Maizzle" class="w-64">
                   </td>
                   <td class="w-1-2 sm-inline-block sm-w-full text-right sm-text-center text-sm">
-                    <a href="https://maizzle.com" class="text-grey no-underline all-hover-text-grey-dark">Features</a>
+                    <a href="https://maizzle.com" class="text-grey no-underline hover-text-grey-dark">Features</a>
                     <span class="text-grey">&bull;</span>
-                    <a href="https://maizzle.com/docs/" class="text-grey no-underline all-hover-text-grey-dark">Docs</a>
+                    <a href="https://maizzle.com/docs/" class="text-grey no-underline hover-text-grey-dark">Docs</a>
                   </td>
                 </tr>
               </table>
@@ -77,7 +78,7 @@
       </td>
     </tr>
   </table>
-
+  </div>
 
 </body>
 </html>
