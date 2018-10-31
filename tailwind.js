@@ -68,8 +68,13 @@ let colors = {
   'twitter': '#1da1f2',
   'linkedin': '#0077B5',
 
+  // Rockstar RDR2
+  'rdr2-red': '#cc0000',
+
   'transparent': 'transparent',
   'inherit': 'inherit',
+
+  'true-black': '#000000',
 
   'black': '#22292f',
   'grey-darkest': '#3d4852',
@@ -1018,7 +1023,7 @@ module.exports = {
     borderRadius: ['responsive', 'hover'],
     borderStyle: ['responsive', 'hover'],
     borderWidths: ['responsive', 'hover'],
-    cursor: false,
+    cursor: ['hover'],
     display: ['responsive', 'group-hover'],
     flexbox: ['responsive'],
     float: ['responsive'],
