@@ -1,0 +1,235 @@
+---
+title: "It's been a long time..."
+bodyClasses: bg-grey-lighter
+---
+
+<table class="wrapper w-full bg-grey-lighter all-font-sans" cellpadding="0" cellspacing="0" role="presentation">
+  <tr>
+    <td align="center" class="w-full">
+
+      <table class="w-600 sm-w-full" cellpadding="0" cellspacing="0" role="presentation">
+        <tr>
+          <td class="py-24 sm-px-24">
+            <p class="text-grey-dark text-xxs m-0">
+              Upload your next photo to Unsplash
+            </p>
+          </td>
+        </tr>
+
+        <tr>
+          <td class="bg-white p-48 sm-px-24">
+            <table class="w-full" cellpadding="0" cellspacing="0" role="presentation">
+              <tr>
+                <td class="pb-40">
+                  <a href="https://unsplash.com/?utm_source=vero&utm_medium=email&utm_content=control&utm_campaign=%5BCLONE%5D%20recurring-photographer-inactive&utm_term=Newsletter&vero_id=594477&vero_conv=PmNPLiUVlfrNjJJhv63oDndRI2bs2gnULidz3TiZComqM1gw7lmZqJOexjOlPfx8hkK953IQzy8PCouvfHPh12hZDDvWCNR7">
+                    <img class="w-40" src="https://unsplash.com/assets/core/logo-black-a7a0b37af95301550fa313b3f0b0f36885f140b1366385dde7944c4146b3c891.png" alt="Unsplash">
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td class="pb-24">
+                  <h1 class="m-0 text-4xl leading-40">What can we expect from your next photo 🌄?</h1>
+                </td>
+              </tr>
+              <tr>
+                <td class="pb-24">
+                  <a href="https://unsplash.com/login?utm_campaign=%5BCLONE%5D+recurring-photographer-inactive&utm_medium=email&utm_source=vero">
+                    <img width="504" src="https://getvero.s3.amazonaws.com/%2Fuploads%2F1a95a34d609c80482beaf440a005e271%2Ffullsize%2F3f4e3b63-09b8-4ca1-a99c-d3771e5effb4-%252Fuploads%252F1a95a34d609c80482beaf440a005e271%252Ffullsize%252F1b67939f-cd1b-4ac3-becc-e072e1bfd7b8-wemissyou.jpg1501005504634-wemissyou.jpg1501260725950-%252Fuploads%252F1a95a34d609c80482beaf440a005e271%252Ffullsize%252F1b67939f-cd1b-4ac3-becc-e072e1bfd7b8-wemissyou.jpg1501005504634-wemissyou.jpg" alt="Photo frame">
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p class="m-0 mb-24 text-lg">Hey Smiles Davis,</p>
+                  <p class="m-0 text-lg">The community misses you! Here’s a quick summary of what’s been happening on your Unsplash account since you last logged in:</p>
+                </td>
+              </tr>
+              <tr>
+                <td class="h-48 sm-h-32"></td>
+              </tr>
+              <tr>
+                <td>
+                  <span class="text-grey text-sm">Total views last month</span>
+                  <p class="m-0 text-5xl text-black">+428,874.0</p>
+                </td>
+              </tr>
+              <tr>
+                <td class="h-32 sm-h-24"></td>
+              </tr>
+              <tr>
+                <td>
+                  <table class="w-full" cellpadding="0" cellspacing="0" role="presentation">
+                    <tr>
+                      <td class="w-1-2 sm-block sm-w-full">
+                        <span class="text-grey text-sm">Downloads last month</span>
+                        <p class="m-0 text-2xl text-black">+1,606</p>
+                      </td>
+                      <td class="w-1-2 sm-block sm-w-full">
+                        <span class="text-grey text-sm">Total photos</span>
+                        <p class="m-0 text-2xl text-black">11</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td class="h-32 sm-hidden" colspan="2"></td>
+                    </tr>
+                    <tr>
+                      <td class="w-1-2 sm-block sm-w-full">
+                        <span class="text-grey text-sm">Days since joining Unsplash</span>
+                        <p class="m-0 text-2xl text-black">114</p>
+                      </td>
+                      <td class="w-1-2 sm-block sm-w-full">
+                        <span class="text-grey text-sm">In collections</span>
+                        <p class="m-0 text-2xl text-black">482</p>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+              <tr>
+                <td class="h-32"></td>
+              </tr>
+              <tr>
+                <td>
+                  <table class="w-full" cellpadding="0" cellspacing="0" role="presentation">
+                    <tr>
+                      <th class="w-full bg-true-black hover-bg-black rounded" style="mso-padding-alt: 12px 48px;">
+                        <a href="https://unsplash.com/login?utm_campaign=%5BCLONE%5D+recurring-photographer-inactive&utm_medium=email&utm_source=vero" class="block text-white text-base leading-full py-16 no-underline">Contribute a photo now</a>
+                      </th>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+
+        <tr>
+          <td class="bg-white">
+            <table class="w-full" cellpadding="0" cellspacing="0" role="presentation">
+              <tr>
+                <td>
+                  <div class="bg-grey-lighter h-2 leading-2">&zwnj;</div>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+
+        <tr>
+          <td class="bg-white p-48 sm-px-24">
+            <h2 class="m-0 mb-24 text-2xl text-black">Trending Topics</h2>
+            <p class="m-0 mb-24 text-base">
+              If you're looking for themes to share, the search terms that have had the highest increase in search frequency over the last 30 days are:
+            </p>
+            <table class="w-full" cellpadding="0" cellspacing="0" role="presentation">
+              <tr>
+                <td class="w-1-2 sm-block sm-w-full">
+                  <ol class="text-black text-base leading-40 m-0 sm-pl-20">
+                    <li>Summer <span class="text-grey">(+734%)</span></li>
+                    <li>Beach <span class="text-grey">(+199%)</span></li>
+                    <li>Fireworks <span class="text-grey">(+155%)</span></li>
+                    <li>Friends <span class="text-grey">(+116%)</span></li>
+                    <li>Father <span class="text-grey">(+105%)</span></li>
+                  </ol>
+                </td>
+                <td class="w-1-2 sm-block sm-w-full">
+                  <ol class="text-black text-base leading-40 m-0 sm-pl-16" start="6">
+                    <li>Christmas <span class="text-grey">(+105%)</span></li>
+                    <li>Ice cream <span class="text-grey">(+103%)</span></li>
+                    <li>Pool <span class="text-grey">(+91%)</span></li>
+                    <li>Winter <span class="text-grey">(+60%)</span></li>
+                    <li>Sea <span class="text-grey">(+58%)</span></li>
+                  </ol>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+
+        <tr>
+          <td class="bg-true-black p-48 sm-px-24">
+            <h2 class="m-0 text-2xl font-normal text-white">These photos just hit a 1M views 👀</h2>
+            <table class="w-full" cellpadding="0" cellspacing="0" role="presentation">
+              <tr>
+                <td class="py-40">
+                  <a class="opacity-75 hover-opacity-100 sm-opacity-100" href="https://unsplash.com/@lids_harper?photo=ATkTuI-sQF8&utm_source=vero&utm_medium=email&utm_content=control&utm_campaign=%5BCLONE%5D%20recurring-photographer-inactive&utm_term=Newsletter&vero_id=594477&vero_conv=PmNPLiUVlfrNjJJhv63oDndRI2bs2gnULidz3TiZComqM1gw7lmZqJOexjOlPfx8hkK953IQzy8PCouvfHPh12hZDDvWCNR7">
+                    <img width="504" src="https://getvero.s3.amazonaws.com/%2Fuploads%2F1a95a34d609c80482beaf440a005e271%2Ffullsize%2Fde1baede-af62-471e-9de6-4029d0de796f-lydia-harper-230908.jpg1501008725010-lydia-harper-230908.jpg" alt="Beach">
+                  </a>
+                  <p class="m-0 mt-10 text-white text-base">
+                    Photo by <a class="text-grey hover-text-white underline" href="https://unsplash.com/@lids_harper?utm_source=vero&utm_medium=email&utm_content=control&utm_campaign=%5BCLONE%5D%20recurring-photographer-inactive&utm_term=Newsletter&vero_id=594477&vero_conv=PmNPLiUVlfrNjJJhv63oDndRI2bs2gnULidz3TiZComqM1gw7lmZqJOexjOlPfx8hkK953IQzy8PCouvfHPh12hZDDvWCNR7">Lydia Harper</a>
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td class="py-40">
+                  <a class="opacity-75 hover-opacity-100 sm-opacity-100" href="https://unsplash.com/@goian?photo=IQbC4VU4YPQ&utm_source=vero&utm_medium=email&utm_content=control&utm_campaign=%5BCLONE%5D%20recurring-photographer-inactive&utm_term=Newsletter&vero_id=594477&vero_conv=PmNPLiUVlfrNjJJhv63oDndRI2bs2gnULidz3TiZComqM1gw7lmZqJOexjOlPfx8hkK953IQzy8PCouvfHPh12hZDDvWCNR7">
+                    <img width="504" src="https://getvero.s3.amazonaws.com/%2Fuploads%2F1a95a34d609c80482beaf440a005e271%2Ffullsize%2Fc802585d-1c37-4aa3-b01d-8855f9468167-ian-schneider-91717.jpg1501009281369-ian-schneider-91717.jpg" alt="Woodwork">
+                  </a>
+                  <p class="m-0 mt-10 text-white text-base">
+                    Photo by <a class="text-grey hover-text-white underline" href="https://unsplash.com/@goian?utm_source=vero&utm_medium=email&utm_content=control&utm_campaign=%5BCLONE%5D%20recurring-photographer-inactive&utm_term=Newsletter&vero_id=594477&vero_conv=PmNPLiUVlfrNjJJhv63oDndRI2bs2gnULidz3TiZComqM1gw7lmZqJOexjOlPfx8hkK953IQzy8PCouvfHPh12hZDDvWCNR7">Ian Schneider</a>
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td class="py-40">
+                  <a class="opacity-75 hover-opacity-100 sm-opacity-100" href="https://unsplash.com/@reddangelo16?photo=AVLueMVuVUs&utm_source=vero&utm_medium=email&utm_content=control&utm_campaign=%5BCLONE%5D%20recurring-photographer-inactive&utm_term=Newsletter&vero_id=594477&vero_conv=PmNPLiUVlfrNjJJhv63oDndRI2bs2gnULidz3TiZComqM1gw7lmZqJOexjOlPfx8hkK953IQzy8PCouvfHPh12hZDDvWCNR7">
+                    <img width="504" src="https://getvero.s3.amazonaws.com/%2Fuploads%2F1a95a34d609c80482beaf440a005e271%2Ffullsize%2F10e7b760-206c-4ee4-bf54-98c2acfbb9a3-redd-angelo-100370.jpg1501009621069-redd-angelo-100370.jpg" alt="City street">
+                  </a>
+                  <p class="m-0 mt-10 text-white text-base">
+                    Photo by <a class="text-grey hover-text-white underline" href="https://unsplash.com/@reddangelo16?utm_source=vero&utm_medium=email&utm_content=control&utm_campaign=%5BCLONE%5D%20recurring-photographer-inactive&utm_term=Newsletter&vero_id=594477&vero_conv=PmNPLiUVlfrNjJJhv63oDndRI2bs2gnULidz3TiZComqM1gw7lmZqJOexjOlPfx8hkK953IQzy8PCouvfHPh12hZDDvWCNR7">Redd Angelo</a>
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td class="py-40">
+                  <a class="opacity-75 hover-opacity-100 sm-opacity-100" href="https://unsplash.com/@_peterclarkson?photo=HED-xfYYWTU&utm_source=vero&utm_medium=email&utm_content=control&utm_campaign=%5BCLONE%5D%20recurring-photographer-inactive&utm_term=Newsletter&vero_id=594477&vero_conv=PmNPLiUVlfrNjJJhv63oDndRI2bs2gnULidz3TiZComqM1gw7lmZqJOexjOlPfx8hkK953IQzy8PCouvfHPh12hZDDvWCNR7">
+                    <img width="504" src="https://getvero.s3.amazonaws.com/%2Fuploads%2F1a95a34d609c80482beaf440a005e271%2Ffullsize%2F01cfe2f2-9038-4c70-bb23-a33b5de98769-peter-clarkson-123299.jpg1501009595140-peter-clarkson-123299.jpg" alt="Public transport">
+                  </a>
+                  <p class="m-0 mt-10 text-white text-base">
+                    Photo by <a class="text-grey hover-text-white underline" href="https://unsplash.com/@_peterclarkson?utm_source=vero&utm_medium=email&utm_content=control&utm_campaign=%5BCLONE%5D%20recurring-photographer-inactive&utm_term=Newsletter&vero_id=594477&vero_conv=PmNPLiUVlfrNjJJhv63oDndRI2bs2gnULidz3TiZComqM1gw7lmZqJOexjOlPfx8hkK953IQzy8PCouvfHPh12hZDDvWCNR7">Peter Clarkson</a>
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td class="p-48 sm-p-24 text-center">
+                  <h3 class="m-0 text-white font-normal text-lg">We bet you've taken some incredible photos lately, want to share?</h3>
+                </td>
+              </tr>
+              <tr>
+                <td class="px-48 sm-px-24">
+                  <table class="w-full" cellpadding="0" cellspacing="0" role="presentation">
+                    <tr>
+                      <th class="w-full bg-white hover-bg-grey-lightest rounded" style="mso-padding-alt: 12px 48px;">
+                        <a href="https://unsplash.com/login?utm_campaign=%5BCLONE%5D+recurring-photographer-inactive&utm_medium=email&utm_source=vero" class="block text-true-black text-base leading-full py-16 no-underline">Contribute a photo now</a>
+                      </th>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+
+        <tr>
+          <td class="py-24 sm-px-24">
+            <table class="w-full" cellpadding="0" cellspacing="0" role="presentation">
+              <tr>
+                <td class="w-1-2 sm-block sm-w-full leading-24">
+                  <p class="m-0 text-grey-dark text-xxs">Sent with <span class="text-red">♥</span> by <a href="https://unsplash.com/?utm_source=vero&utm_medium=email&utm_content=control&utm_campaign=%5BCLONE%5D%20recurring-photographer-inactive&utm_term=Newsletter&vero_id=594477&vero_conv=PmNPLiUVlfrNjJJhv63oDndRI2bs2gnULidz3TiZComqM1gw7lmZqJOexjOlPfx8hkK953IQzy8PCouvfHPh12hZDDvWCNR7" class="underline hover-no-underline text-grey-dark">Unsplash</a></p>
+                  <p class="m-0 text-grey-dark text-xxs">
+                    <a href="https://crewcollectivecafe.com/?utm_source=vero&utm_medium=email&utm_content=control&utm_campaign=%5BCLONE%5D%20recurring-photographer-inactive&utm_term=Newsletter&vero_id=594477&vero_conv=PmNPLiUVlfrNjJJhv63oDndRI2bs2gnULidz3TiZComqM1gw7lmZqJOexjOlPfx8hkK953IQzy8PCouvfHPh12hZDDvWCNR7" class="underline hover-no-underline text-grey-dark">Crew Collective & Café</a>
+                  </p>
+                  <p class="m-0 text-grey-dark text-xxs">360 Saint-Jacques, Montreal, Canada</p>
+                </td>
+                <td class="w-1-2 sm-block sm-w-full align-top text-right sm-text-left sm-pt-24">
+                  <a href="https://maizzle.com" class="text-xxs text-grey-dark underline hover-no-underline">Unsubscribe from this email type</a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+
+    </td>
+  </tr>
+</table>

@@ -5,7 +5,7 @@
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="x-apple-disable-message-reformatting">
-  @if($page->title)<title>{{ $page->title }}</title>@endif
+  @if($page->title)<title>{!! $page->title !!}</title>@endif
 
   @if(is_object($page->googleFonts) && $page->googleFonts->isNotEmpty())
   <!--[if !mso]><!--><link rel="stylesheet" href="https://fonts.googleapis.com/css?family={{ $page->googleFontsString() }}"><!--<![endif]-->
