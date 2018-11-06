@@ -15,7 +15,7 @@ bodyClasses: bg-true-black
       font-family: 'Oswald', sans-serif !important;
     }
     .cta-bg {
-      background: url('img/cta-bg.png') center no-repeat !important;
+      background: url('https://res.cloudinary.com/maizzle/image/upload/v1541499909/remix/rdr2/cta-bg.png') center no-repeat !important;
     }
     .transition-all {
       transition: all 0.3s ease-in-out 0s;
@@ -41,7 +41,7 @@ bodyClasses: bg-true-black
 
       <div>
         <a href="https://www.rockstargames.com/reddeadredemption2/">
-          <img src="img/hero.jpg" alt="Red Dead Redemption 2" class="w-600 all-w-full">
+          <img src="https://res.cloudinary.com/maizzle/image/upload/v1541499909/remix/rdr2/hero.jpg" alt="Red Dead Redemption 2" class="w-600 all-w-full">
         </a>
       </div>
 
@@ -75,30 +75,30 @@ bodyClasses: bg-true-black
         <table class="w-600 sm-w-full text-white" cellpadding="0" cellspacing="0" role="presentation">
           <tr>
             <td class="w-1-3 sm-block sm-w-full text-center group hover-cursor-pointer px-10 sm-pb-32 align-top">
-              <div class="bg-no-repeat bg-center transition-all hover-bg-scale mb-12" style="background-image: url('img/original/trailer.jpg'); background-size: 100%;">
-                @vmlbg(['src' => 'img/original/trailer.jpg', 'width' => 200, 'height' => 200])
+              <div class="bg-no-repeat bg-center transition-all hover-bg-scale mb-12" style="background-image: url('https://res.cloudinary.com/maizzle/image/upload/v1541499909/remix/rdr2/trailer.jpg'); background-size: 100%;">
+                @vmlbg(['src' => 'https://res.cloudinary.com/maizzle/image/upload/v1541499909/remix/rdr2/trailer.jpg', 'width' => 200, 'height' => 200])
                   <a href="https://www.rockstargames.com/reddeadredemption2/videos?id=12104">
-                    <img src="img/original/mask-1.png" alt="" width="220" class="sm-w-full">
+                    <img src="https://res.cloudinary.com/maizzle/image/upload/v1541499909/remix/rdr2/mask-1.png" alt="" width="220" class="sm-w-full">
                   </a>
                 @endvmlbg
               </div>
               <a href="https://www.rockstargames.com/reddeadredemption2/videos?id=12104" class="text-white text-sm group-hover-text-rdr2-red font-redemption uppercase no-underline transition-all">Launch trailer</a>
             </td>
             <td class="w-1-3 sm-block sm-w-full text-center group hover-cursor-pointer px-10 sm-pb-32 align-top">
-              <div class="bg-no-repeat bg-center transition-all hover-bg-scale mb-12" style="background-image: url('img/original/reviews.jpg'); background-size: 100%;">
-                @vmlbg(['src' => 'img/original/reviews.jpg', 'width' => 200, 'height' => 200])
+              <div class="bg-no-repeat bg-center transition-all hover-bg-scale mb-12" style="background-image: url('https://res.cloudinary.com/maizzle/image/upload/v1541499909/remix/rdr2/reviews.jpg'); background-size: 100%;">
+                @vmlbg(['src' => 'https://res.cloudinary.com/maizzle/image/upload/v1541499909/remix/rdr2/reviews.jpg', 'width' => 200, 'height' => 200])
                   <a href="https://www.rockstargames.com/reddeadredemption2/news/article/60660/Red-Dead-Redemption-2-Reviews">
-                    <img src="img/original/mask-2.png" alt="" width="240" class="sm-w-full">
+                    <img src="https://res.cloudinary.com/maizzle/image/upload/v1541499909/remix/rdr2/mask-2.png" alt="" width="240" class="sm-w-full">
                   </a>
                 @endvmlbg
               </div>
               <a href="https://www.rockstargames.com/reddeadredemption2/news/article/60660/Red-Dead-Redemption-2-Reviews" class="text-white text-sm group-hover-text-rdr2-red font-redemption uppercase no-underline transition-all">Reviews</a>
             </td>
             <td class="w-1-3 sm-block sm-w-full text-center group hover-cursor-pointer px-10 align-top">
-              <div class="bg-no-repeat bg-center transition-all hover-bg-scale mb-12" style="background-image: url('img/original/editions.jpg'); background-size: 100%;">
-                @vmlbg(['src' => 'img/original/editions.jpg', 'width' => 200, 'height' => 200])
+              <div class="bg-no-repeat bg-center transition-all hover-bg-scale mb-12" style="background-image: url('https://res.cloudinary.com/maizzle/image/upload/v1541499909/remix/rdr2/editions.jpg'); background-size: 100%;">
+                @vmlbg(['src' => 'https://res.cloudinary.com/maizzle/image/upload/v1541499909/remix/rdr2/editions.jpg', 'width' => 200, 'height' => 200])
                   <a href="https://www.rockstargames.com/reddeadredemption2/news/article/60459/The-Red-Dead-Redemption-2-Special-Edition-Ultimate-Edition-and-Collect">
-                    <img src="img/original/mask-3.png" alt="" width="220" class="sm-w-full">
+                    <img src="https://res.cloudinary.com/maizzle/image/upload/v1541499909/remix/rdr2/mask-3.png" alt="" width="220" class="sm-w-full">
                   </a>
                 @endvmlbg
               </div>
@@ -110,30 +110,30 @@ bodyClasses: bg-true-black
           </tr>
           <tr>
             <td class="w-1-3 sm-block sm-w-full text-center group hover-cursor-pointer px-10 sm-pb-32 align-top">
-              <div class="bg-no-repeat bg-center transition-all hover-bg-scale mb-12" style="background-image: url('img/original/weaponry.jpg'); background-size: 100%;">
-                @vmlbg(['src' => 'img/original/weaponry.jpg', 'width' => 200, 'height' => 200])
+              <div class="bg-no-repeat bg-center transition-all hover-bg-scale mb-12" style="background-image: url('https://res.cloudinary.com/maizzle/image/upload/v1541499909/remix/rdr2/weaponry.jpg'); background-size: 100%;">
+                @vmlbg(['src' => 'https://res.cloudinary.com/maizzle/image/upload/v1541499909/remix/rdr2/weaponry.jpg', 'width' => 200, 'height' => 200])
                   <a href="https://www.rockstargames.com/reddeadredemption2/features/weaponry">
-                    <img src="img/original/mask-4.png" alt="" width="220" class="sm-w-full">
+                    <img src="https://res.cloudinary.com/maizzle/image/upload/v1541499909/remix/rdr2/mask-4.png" alt="" width="220" class="sm-w-full">
                   </a>
                 @endvmlbg
               </div>
               <a href="https://www.rockstargames.com/reddeadredemption2/features/weaponry" class="text-white text-sm group-hover-text-rdr2-red font-redemption uppercase no-underline transition-all">Weaponry</a>
             </td>
             <td class="w-1-3 sm-block sm-w-full text-center group hover-cursor-pointer px-10 sm-pb-32 align-top">
-              <div class="bg-no-repeat bg-center transition-all hover-bg-scale mb-12" style="background-image: url('img/original/wildlife.jpg'); background-size: 100%;">
-                @vmlbg(['src' => 'img/original/wildlife.jpg', 'width' => 200, 'height' => 200])
+              <div class="bg-no-repeat bg-center transition-all hover-bg-scale mb-12" style="background-image: url('https://res.cloudinary.com/maizzle/image/upload/v1541499909/remix/rdr2/wildlife.jpg'); background-size: 100%;">
+                @vmlbg(['src' => 'https://res.cloudinary.com/maizzle/image/upload/v1541499909/remix/rdr2/wildlife.jpg', 'width' => 200, 'height' => 200])
                   <a href="https://www.rockstargames.com/reddeadredemption2/features/wildlife">
-                    <img src="img/original/mask-5.png" alt="" width="240" class="sm-w-full">
+                    <img src="https://res.cloudinary.com/maizzle/image/upload/v1541499909/remix/rdr2/mask-5.png" alt="" width="240" class="sm-w-full">
                   </a>
                 @endvmlbg
               </div>
               <a href="https://www.rockstargames.com/reddeadredemption2/features/wildlife" class="text-white text-sm group-hover-text-rdr2-red font-redemption uppercase no-underline transition-all">Wildlife</a>
             </td>
             <td class="w-1-3 sm-block sm-w-full text-center group hover-cursor-pointer px-10 align-top">
-              <div class="bg-no-repeat bg-center transition-all hover-bg-scale mb-12" style="background-image: url('img/original/gameplay-video.jpg'); background-size: 100%;">
-                @vmlbg(['src' => 'img/original/gameplay-video.jpg', 'width' => 200, 'height' => 200])
+              <div class="bg-no-repeat bg-center transition-all hover-bg-scale mb-12" style="background-image: url('https://res.cloudinary.com/maizzle/image/upload/v1541499909/remix/rdr2/gameplay-video.jpg'); background-size: 100%;">
+                @vmlbg(['src' => 'https://res.cloudinary.com/maizzle/image/upload/v1541499909/remix/rdr2/gameplay-video.jpg', 'width' => 200, 'height' => 200])
                   <a href="https://www.rockstargames.com/reddeadredemption2/videos?id=12103">
-                    <img src="img/original/mask-6.png" alt="" width="220" class="sm-w-full">
+                    <img src="https://res.cloudinary.com/maizzle/image/upload/v1541499909/remix/rdr2/mask-6.png" alt="" width="220" class="sm-w-full">
                   </a>
                 @endvmlbg
               </div>
@@ -145,30 +145,30 @@ bodyClasses: bg-true-black
           </tr>
           <tr>
             <td class="w-1-3 sm-block sm-w-full text-center group hover-cursor-pointer px-10 sm-pb-32 align-top">
-              <div class="bg-no-repeat bg-center transition-all hover-bg-scale mb-12" style="background-image: url('img/original/vanderlinde.jpg'); background-size: 100%;">
-                @vmlbg(['src' => 'img/original/vanderlinde.jpg', 'width' => 200, 'height' => 200])
+              <div class="bg-no-repeat bg-center transition-all hover-bg-scale mb-12" style="background-image: url('https://res.cloudinary.com/maizzle/image/upload/v1541499909/remix/rdr2/vanderlinde.jpg'); background-size: 100%;">
+                @vmlbg(['src' => 'https://res.cloudinary.com/maizzle/image/upload/v1541499909/remix/rdr2/vanderlinde.jpg', 'width' => 200, 'height' => 200])
                   <a href="https://www.rockstargames.com/reddeadredemption2/features/vanderlindegang">
-                    <img src="img/original/mask-1.png" alt="" width="220" class="sm-w-full">
+                    <img src="https://res.cloudinary.com/maizzle/image/upload/v1541499909/remix/rdr2/mask-1.png" alt="" width="220" class="sm-w-full">
                   </a>
                 @endvmlbg
               </div>
               <a href="https://www.rockstargames.com/reddeadredemption2/features/vanderlindegang" class="text-white text-sm group-hover-text-rdr2-red font-redemption uppercase no-underline transition-all">The Van Der Linde Gang</a>
             </td>
             <td class="w-1-3 sm-block sm-w-full text-center group hover-cursor-pointer px-10 sm-pb-32 align-top">
-              <div class="bg-no-repeat bg-center transition-all hover-bg-scale mb-12" style="background-image: url('img/original/frontier.jpg'); background-size: 100%;">
-                @vmlbg(['src' => 'img/original/frontier.jpg', 'width' => 200, 'height' => 200])
+              <div class="bg-no-repeat bg-center transition-all hover-bg-scale mb-12" style="background-image: url('https://res.cloudinary.com/maizzle/image/upload/v1541499909/remix/rdr2/frontier.jpg'); background-size: 100%;">
+                @vmlbg(['src' => 'https://res.cloudinary.com/maizzle/image/upload/v1541499909/remix/rdr2/frontier.jpg', 'width' => 200, 'height' => 200])
                   <a href="https://www.rockstargames.com/reddeadredemption2/features/frontiercitiesandtowns">
-                    <img src="img/original/mask-3.png" alt="" width="240" class="sm-w-full">
+                    <img src="https://res.cloudinary.com/maizzle/image/upload/v1541499909/remix/rdr2/mask-3.png" alt="" width="240" class="sm-w-full">
                   </a>
                 @endvmlbg
               </div>
               <a href="https://www.rockstargames.com/reddeadredemption2/features/frontiercitiesandtowns" class="text-white text-sm group-hover-text-rdr2-red font-redemption uppercase no-underline transition-all">The Frontier, Cities & Towns</a>
             </td>
             <td class="w-1-3 sm-block sm-w-full text-center group hover-cursor-pointer px-10 align-top">
-              <div class="bg-no-repeat bg-center transition-all hover-bg-scale mb-12" style="background-image: url('img/original/screens.jpg'); background-size: 100%;">
-                @vmlbg(['src' => 'img/original/screens.jpg', 'width' => 200, 'height' => 200])
+              <div class="bg-no-repeat bg-center transition-all hover-bg-scale mb-12" style="background-image: url('https://res.cloudinary.com/maizzle/image/upload/v1541499909/remix/rdr2/screens.jpg'); background-size: 100%;">
+                @vmlbg(['src' => 'https://res.cloudinary.com/maizzle/image/upload/v1541499909/remix/rdr2/screens.jpg', 'width' => 200, 'height' => 200])
                   <a href="https://www.rockstargames.com/reddeadredemption2/screens">
-                    <img src="img/original/mask-5.png" alt="" width="220" class="sm-w-full">
+                    <img src="https://res.cloudinary.com/maizzle/image/upload/v1541499909/remix/rdr2/mask-5.png" alt="" width="220" class="sm-w-full">
                   </a>
                 @endvmlbg
               </div>
@@ -190,15 +190,15 @@ bodyClasses: bg-true-black
         <tr>
           <td align="center" class="py-64">
             <a href="http://www.rockstargames.com/">
-              <img src="img/logo-footer.png" alt="" class="w-64">
+              <img src="https://res.cloudinary.com/maizzle/image/upload/v1541499909/remix/rdr2/footer.png" alt="" class="w-64">
             </a>
           </td>
         </tr>
       </table>
 
-      <table class="w-full bg-red" cellpadding="0" cellspacing="0" role="presentation" style="background: url('img/original/pattern-grunge-red.jpg');">
+      <table class="w-full bg-red" cellpadding="0" cellspacing="0" role="presentation" style="background: url('https://res.cloudinary.com/maizzle/image/upload/v1541499909/remix/rdr2/pattern-grunge-red.jpg');">
         <tr>
-          <td align="center" class=" text-white font-redemption uppercase pt-64 pb-12 bg-no-repeat" style="background-image: url('img/original/pattern-grunge-mask.png'); background-position: 0 -70px;">
+          <td align="center" class=" text-white font-redemption uppercase pt-64 pb-12 bg-no-repeat" style="background-image: url('https://res.cloudinary.com/maizzle/image/upload/v1541499909/remix/rdr2/pattern-grunge-mask.png'); background-position: 0 -70px;">
             <h2 class="m-0 text-4xl sm-text-2xl leading-full">Outlaws For Life</h2>
             <table class="w-600 sm-w-full" cellpadding="0" cellspacing="0" role="presentation">
               <tr>

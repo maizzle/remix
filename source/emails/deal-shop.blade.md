@@ -11,7 +11,7 @@ googleFonts: ['Montserrat']
           <td align="center" class="py-24">
             <h1 class="m-0">
               <a href="https://maizzle.com" class="all-font-montserrat text-grey-dark no-underline text-2xl hover-opacity-75">
-                <img src="logo.png" alt="" width="40" class="mr-6">
+                <img src="https://res.cloudinary.com/maizzle/image/upload/v1541500690/remix/deal-shop/logo.png" alt="" width="40" class="mr-6">
                 Deal Shop
               </a>
             </h1>
@@ -28,7 +28,7 @@ googleFonts: ['Montserrat']
       <table class="w-600 sm-w-full" cellpadding="0" cellspacing="0" role="presentation">
         <tr>
           <td align="center" class="py-60">
-            <img src="cart-hero.png" alt="" width="93">
+            <img src="https://res.cloudinary.com/maizzle/image/upload/v1541500690/remix/deal-shop/cart-hero.png" alt="" width="93">
             <h2 class="mt-24 mb-4 text-xl text-grey-darker all-font-montserrat">Your shopping cart has abandonment issues</h2>
             <p class="m-0 mb-24 text-base text-grey-dark all-font-sans">Save these items hours of therapy & give them a loving home.</p>
             <table cellpadding="0" cellspacing="0" role="presentation">
@@ -78,7 +78,7 @@ googleFonts: ['Montserrat']
                   <table class="w-full" cellpadding="0" cellspacing="0" role="presentation">
                     <tr>
                       <td align="center" class="w-1-2 p-32">
-                        <img src="product-1.png" alt="Formal Watch">
+                        <img src="https://res.cloudinary.com/maizzle/image/upload/v1541500690/remix/deal-shop/product-1.png" alt="Formal Watch">
                       </td>
                       <td align="left" class="w-1-2 all-font-montserrat">
                         <h4 class="m-0 mb-2 text-grey-darkest text-lg">Formal Watch <span class="sm-block text-grey-dark font-normal text-sm">x 1</span></h4>
@@ -116,7 +116,7 @@ googleFonts: ['Montserrat']
                   <table class="w-full" cellpadding="0" cellspacing="0" role="presentation">
                     <tr>
                       <td align="center" class="w-1-2 p-32">
-                        <img src="product-2.png" alt="Orange Watch">
+                        <img src="https://res.cloudinary.com/maizzle/image/upload/v1541500690/remix/deal-shop/product-2.png" alt="Orange Watch">
                       </td>
                       <td align="left" class="w-1-2 all-font-montserrat">
                         <h4 class="m-0 mb-2 text-grey-darkest text-lg">Orange Watch <span class="sm-block text-grey-dark font-normal text-sm">x 1</span></h4>
@@ -154,7 +154,7 @@ googleFonts: ['Montserrat']
                   <table class="w-full" cellpadding="0" cellspacing="0" role="presentation">
                     <tr>
                       <td align="center" class="w-1-2 p-32">
-                        <img src="product-3.png" alt="Smart Watch">
+                        <img src="https://res.cloudinary.com/maizzle/image/upload/v1541500690/remix/deal-shop/product-3.png" alt="Smart Watch">
                       </td>
                       <td align="left" class="w-1-2 all-font-montserrat">
                         <h4 class="m-0 mb-2 text-grey-darkest text-lg">Smart Watch <span class="sm-block text-grey-dark font-normal text-sm">x 1</span></h4>
