@@ -471,6 +471,7 @@ module.exports = {
     'auto': 'auto',
     'cover': 'cover',
     'contain': 'contain',
+    'scale-120': '120%',
   },
 
 
@@ -1017,7 +1018,7 @@ module.exports = {
     backgroundColors: ['responsive', 'hover', 'group-hover'],
     backgroundPosition: ['responsive'],
     backgroundRepeat: ['responsive'],
-    backgroundSize: ['responsive'],
+    backgroundSize: ['responsive', 'group-hover'],
     borderCollapse: [],
     borderColors: ['responsive', 'hover'],
     borderRadius: ['responsive', 'hover'],
