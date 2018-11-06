@@ -8,7 +8,7 @@ bodyClasses: bg-true-black
 @push('head')
 <style>
   @media screen {
-    .font-redemption {
+    .font-bevan {
       font-family: 'Bevan', cursive !important;
     }
     .font-oswald {
@@ -48,11 +48,11 @@ bodyClasses: bg-true-black
       <table class="w-600 sm-w-full" cellpadding="0" cellspacing="0" role="presentation">
         <tr>
           <td align="center" class="sm-px-20">
-            <p class="text-xl text-white font-redemption uppercase">Out now</p>
+            <p class="text-xl text-white font-bevan uppercase">Out now</p>
             <table cellpadding="0" cellspacing="0" role="presentation">
               <tr>
                 <th class="bg-red cta-bg" style="mso-padding-alt: 16px 48px;">
-                  <a href="https://www.rockstargames.com/reddeadredemption2/" class="block font-redemption text-true-black hover-text-white text-xl leading-full py-16 px-48 no-underline transition-all">ORDER</a>
+                  <a href="https://www.rockstargames.com/reddeadredemption2/" class="block font-bevan text-true-black hover-text-white text-xl leading-full py-16 px-48 no-underline transition-all">ORDER</a>
                 </th>
               </tr>
             </table>
@@ -82,7 +82,7 @@ bodyClasses: bg-true-black
                   </a>
                 @endvmlbg
               </div>
-              <a href="https://www.rockstargames.com/reddeadredemption2/videos?id=12104" class="text-white text-sm group-hover-text-rdr2-red font-redemption uppercase no-underline transition-all">Launch trailer</a>
+              <a href="https://www.rockstargames.com/reddeadredemption2/videos?id=12104" class="text-white text-sm group-hover-text-rdr2-red font-bevan uppercase no-underline transition-all">Launch trailer</a>
             </td>
             <td class="w-1-3 sm-block sm-w-full text-center group hover-cursor-pointer px-10 sm-pb-32 align-top">
               <div class="bg-no-repeat bg-center transition-all hover-bg-scale mb-12" style="background-image: url('https://res.cloudinary.com/maizzle/image/upload/v1541499909/remix/rdr2/reviews.jpg'); background-size: 100%;">
@@ -92,7 +92,7 @@ bodyClasses: bg-true-black
                   </a>
                 @endvmlbg
               </div>
-              <a href="https://www.rockstargames.com/reddeadredemption2/news/article/60660/Red-Dead-Redemption-2-Reviews" class="text-white text-sm group-hover-text-rdr2-red font-redemption uppercase no-underline transition-all">Reviews</a>
+              <a href="https://www.rockstargames.com/reddeadredemption2/news/article/60660/Red-Dead-Redemption-2-Reviews" class="text-white text-sm group-hover-text-rdr2-red font-bevan uppercase no-underline transition-all">Reviews</a>
             </td>
             <td class="w-1-3 sm-block sm-w-full text-center group hover-cursor-pointer px-10 align-top">
               <div class="bg-no-repeat bg-center transition-all hover-bg-scale mb-12" style="background-image: url('https://res.cloudinary.com/maizzle/image/upload/v1541499909/remix/rdr2/editions.jpg'); background-size: 100%;">
@@ -102,7 +102,7 @@ bodyClasses: bg-true-black
                   </a>
                 @endvmlbg
               </div>
-              <a href="https://www.rockstargames.com/reddeadredemption2/news/article/60459/The-Red-Dead-Redemption-2-Special-Edition-Ultimate-Edition-and-Collect" class="text-white text-sm group-hover-text-rdr2-red font-redemption uppercase no-underline transition-all">Special & Ultimate Editions</a>
+              <a href="https://www.rockstargames.com/reddeadredemption2/news/article/60459/The-Red-Dead-Redemption-2-Special-Edition-Ultimate-Edition-and-Collect" class="text-white text-sm group-hover-text-rdr2-red font-bevan uppercase no-underline transition-all">Special & Ultimate Editions</a>
             </td>
           </tr>
           <tr>
@@ -117,7 +117,7 @@ bodyClasses: bg-true-black
                   </a>
                 @endvmlbg
               </div>
-              <a href="https://www.rockstargames.com/reddeadredemption2/features/weaponry" class="text-white text-sm group-hover-text-rdr2-red font-redemption uppercase no-underline transition-all">Weaponry</a>
+              <a href="https://www.rockstargames.com/reddeadredemption2/features/weaponry" class="text-white text-sm group-hover-text-rdr2-red font-bevan uppercase no-underline transition-all">Weaponry</a>
             </td>
             <td class="w-1-3 sm-block sm-w-full text-center group hover-cursor-pointer px-10 sm-pb-32 align-top">
               <div class="bg-no-repeat bg-center transition-all hover-bg-scale mb-12" style="background-image: url('https://res.cloudinary.com/maizzle/image/upload/v1541499909/remix/rdr2/wildlife.jpg'); background-size: 100%;">
@@ -127,7 +127,7 @@ bodyClasses: bg-true-black
                   </a>
                 @endvmlbg
               </div>
-              <a href="https://www.rockstargames.com/reddeadredemption2/features/wildlife" class="text-white text-sm group-hover-text-rdr2-red font-redemption uppercase no-underline transition-all">Wildlife</a>
+              <a href="https://www.rockstargames.com/reddeadredemption2/features/wildlife" class="text-white text-sm group-hover-text-rdr2-red font-bevan uppercase no-underline transition-all">Wildlife</a>
             </td>
             <td class="w-1-3 sm-block sm-w-full text-center group hover-cursor-pointer px-10 align-top">
               <div class="bg-no-repeat bg-center transition-all hover-bg-scale mb-12" style="background-image: url('https://res.cloudinary.com/maizzle/image/upload/v1541499909/remix/rdr2/gameplay-video.jpg'); background-size: 100%;">
@@ -137,7 +137,7 @@ bodyClasses: bg-true-black
                   </a>
                 @endvmlbg
               </div>
-              <a href="https://www.rockstargames.com/reddeadredemption2/videos?id=12103" class="text-white text-sm group-hover-text-rdr2-red font-redemption uppercase no-underline transition-all">Gameplay Video</a>
+              <a href="https://www.rockstargames.com/reddeadredemption2/videos?id=12103" class="text-white text-sm group-hover-text-rdr2-red font-bevan uppercase no-underline transition-all">Gameplay Video</a>
             </td>
           </tr>
           <tr>
@@ -152,7 +152,7 @@ bodyClasses: bg-true-black
                   </a>
                 @endvmlbg
               </div>
-              <a href="https://www.rockstargames.com/reddeadredemption2/features/vanderlindegang" class="text-white text-sm group-hover-text-rdr2-red font-redemption uppercase no-underline transition-all">The Van Der Linde Gang</a>
+              <a href="https://www.rockstargames.com/reddeadredemption2/features/vanderlindegang" class="text-white text-sm group-hover-text-rdr2-red font-bevan uppercase no-underline transition-all">The Van Der Linde Gang</a>
             </td>
             <td class="w-1-3 sm-block sm-w-full text-center group hover-cursor-pointer px-10 sm-pb-32 align-top">
               <div class="bg-no-repeat bg-center transition-all hover-bg-scale mb-12" style="background-image: url('https://res.cloudinary.com/maizzle/image/upload/v1541499909/remix/rdr2/frontier.jpg'); background-size: 100%;">
@@ -162,7 +162,7 @@ bodyClasses: bg-true-black
                   </a>
                 @endvmlbg
               </div>
-              <a href="https://www.rockstargames.com/reddeadredemption2/features/frontiercitiesandtowns" class="text-white text-sm group-hover-text-rdr2-red font-redemption uppercase no-underline transition-all">The Frontier, Cities & Towns</a>
+              <a href="https://www.rockstargames.com/reddeadredemption2/features/frontiercitiesandtowns" class="text-white text-sm group-hover-text-rdr2-red font-bevan uppercase no-underline transition-all">The Frontier, Cities & Towns</a>
             </td>
             <td class="w-1-3 sm-block sm-w-full text-center group hover-cursor-pointer px-10 align-top">
               <div class="bg-no-repeat bg-center transition-all hover-bg-scale mb-12" style="background-image: url('https://res.cloudinary.com/maizzle/image/upload/v1541499909/remix/rdr2/screens.jpg'); background-size: 100%;">
@@ -172,7 +172,7 @@ bodyClasses: bg-true-black
                   </a>
                 @endvmlbg
               </div>
-              <a href="https://www.rockstargames.com/reddeadredemption2/screens" class="text-white text-sm group-hover-text-rdr2-red font-redemption uppercase no-underline transition-all">Screens</a>
+              <a href="https://www.rockstargames.com/reddeadredemption2/screens" class="text-white text-sm group-hover-text-rdr2-red font-bevan uppercase no-underline transition-all">Screens</a>
             </td>
           </tr>
         </table>
@@ -180,7 +180,7 @@ bodyClasses: bg-true-black
         <table cellpadding="0" cellspacing="0" role="presentation">
           <tr>
             <th class="bg-red cta-bg" style="mso-padding-alt: 16px 48px;">
-              <a href="https://www.rockstargames.com/reddeadredemption2/" class="block font-redemption text-true-black hover-text-white text-xl leading-full py-16 px-48 no-underline transition-all">ORDER</a>
+              <a href="https://www.rockstargames.com/reddeadredemption2/" class="block font-bevan text-true-black hover-text-white text-xl leading-full py-16 px-48 no-underline transition-all">ORDER</a>
             </th>
           </tr>
         </table>
@@ -198,7 +198,7 @@ bodyClasses: bg-true-black
 
       <table class="w-full bg-red" cellpadding="0" cellspacing="0" role="presentation" style="background: url('https://res.cloudinary.com/maizzle/image/upload/v1541499909/remix/rdr2/pattern-grunge-red.jpg');">
         <tr>
-          <td align="center" class=" text-white font-redemption uppercase pt-64 pb-12 bg-no-repeat" style="background-image: url('https://res.cloudinary.com/maizzle/image/upload/v1541499909/remix/rdr2/pattern-grunge-mask.png'); background-position: 0 -70px;">
+          <td align="center" class=" text-white font-bevan uppercase pt-64 pb-12 bg-no-repeat" style="background-image: url('https://res.cloudinary.com/maizzle/image/upload/v1541499909/remix/rdr2/pattern-grunge-mask.png'); background-position: 0 -70px;">
             <h2 class="m-0 text-4xl sm-text-2xl leading-full">Outlaws For Life</h2>
             <table class="w-600 sm-w-full" cellpadding="0" cellspacing="0" role="presentation">
               <tr>
