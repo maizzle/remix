@@ -1,0 +1,302 @@
+---
+title: The most powerful MacBook Pro is here.
+bodyClasses: bg-apple-black
+googleFonts: ['Roboto:300,400']
+---
+
+@push('head')
+<style>
+  @keyframes reveal {
+    100% { background-image: url('https://res.cloudinary.com/maizzle/image/upload/v1542190984/remix/apple-mbp/mbp-reveal.jpg'); }
+  }
+  @media screen {
+    .bg-mbp-backdrop {
+      animation-delay: 2s;
+      animation-duration: 5s;
+      animation-name: reveal;
+      animation-fill-mode: forwards;
+    }
+    .font-apple-body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    }
+  }
+</style>
+@endpush
+
+<table class="wrapper w-full bg-apple-black font-apple-body" cellpadding="0" cellspacing="0" role="presentation">
+  <tr>
+    <td align="center" class="w-full">
+
+      <table class="sm-w-full" cellpadding="0" cellspacing="0" role="presentation" width="720">
+        <tr>
+          <td class="pt-40 pb-10 pl-32 text-white">
+            <img src="https://images.apple.com/dm/us/18/B7C71427-ABF0-41AB-9DD0-DA6DCC17A316/i/apple_888_alpha_2x.png" width="21" alt="">
+          </td>
+        </tr>
+        <tr>
+          <td align="center" class="all-font-roboto">
+            <span class="text-apple-mbp-grey-dark text-xl font-semibold">MacBook Pro</span>
+            <h1 class="text-white text-4xl mt-8 mb-32 font-semibold">
+              More power.<br>More performance.<br>More pro.
+            </h1>
+            <table cellpadding="0" cellspacing="0" role="presentation">
+              <tr>
+                <td class="bg-gradient-apple-cta rounded-lg border border-solid border-apple-cta-border-dark hover-border-apple-cta-border-light" style="mso-padding-alt: 10px 20px;">
+                  <a href="http://c.apple.com/r?v=2&la=en&lc=usa&a=z2%2Bnb8HWCoHziyJtbRYNxDd%2FkgyZjZvGSC81JOPXnyokEbkZLtBGart68%2F85LQVBLprGbyJByCuPctWd3EDCGVtqY4LbdPU3lqLVNk2yQNMR2nj%2FWPomp4pGEkIxFTfNufBCEZV%2FDaC2csTEqukhgjITNPAqA3LKtZ2DixsNytyZQTHQT7YUEn879r30D6h%2Bd3f3weAvZ%2FcAsK1L%2FXCrtw%3D%3D&ct=aI1K5b1q7N" class="block text-white text-base font-light leading-full py-10 px-20 no-underline">Buy</a>
+                </td>
+              </tr>
+            </table>
+            <div class="leading-64 sm-h-32">&zwnj;</div>
+            <!--[if !mso]><!-->
+              <div class="bg-mbp-backdrop">
+                  <a class="block w-full h-full" href="http://c.apple.com/r?v=2&la=en&lc=usa&a=z2%2Bnb8HWCoHziyJtbRYNxDd%2FkgyZjZvGSC81JOPXnyokEbkZLtBGart68%2F85LQVBLprGbyJByCuPctWd3EDCGVtqY4LbdPU3lqLVNk2yQNMR2nj%2FWPomp4pGEkIxFTfNufBCEZV%2FDaC2csTEqukhgjITNPAqA3LKtZ2DixsNytyZQTHQT7YUEn879r30D6h%2Bd3f3weAvZ%2FcAsK1L%2FXCrtw%3D%3D&ct=aI8J8V6B2v"></a>
+              </div>
+            <!--<![endif]-->
+            <!--[if mso]>
+              <a href="http://c.apple.com/r?v=2&la=en&lc=usa&a=z2%2Bnb8HWCoHziyJtbRYNxDd%2FkgyZjZvGSC81JOPXnyokEbkZLtBGart68%2F85LQVBLprGbyJByCuPctWd3EDCGVtqY4LbdPU3lqLVNk2yQNMR2nj%2FWPomp4pGEkIxFTfNufBCEZV%2FDaC2csTEqukhgjITNPAqA3LKtZ2DixsNytyZQTHQT7YUEn879r30D6h%2Bd3f3weAvZ%2FcAsK1L%2FXCrtw%3D%3D&ct=aI8J8V6B2v">
+                <img src="https://res.cloudinary.com/maizzle/image/upload/v1542190984/remix/apple-mbp/mbp-reveal.jpg" alt="Macbook Pro" width="720">
+              </a>
+            <![endif]-->
+          </td>
+        </tr>
+        <tr>
+          <td class="px-30">
+            <table class="w-full text-white" cellpadding="0" cellspacing="0" role="presentation">
+              <tr>
+                <td class="w-1-2 sm-block sm-w-full pt-20 pb-40 align-top" style="border-top: 1px solid #FFFFFF;">
+                  <p class="m-0 text-xl font-semibold">15-inch models now up to 70% faster, 13-inch models now up to 2x faster.<sup class="leading-0 text-xs">1</sup></p>
+                </td>
+                <td class="pr-56 sm-hidden">&zwnj;</td>
+                <td class="w-1-2 sm-block sm-w-full pt-20 pb-40 align-top" style="border-top: 1px solid #FFFFFF;">
+                  <p class="m-0 text-xl font-semibold">New eighth-generation Intel 6‑core and quad‑core processors.</p>
+                </td>
+              </tr>
+              <tr>
+                <td class="w-1-2 sm-block sm-w-full pt-20 pb-40 align-top" style="border-top: 1px solid #FFFFFF;">
+                  <p class="m-0 text-xl font-semibold">Up to 32GB of memory.</p>
+                </td>
+                <td class="pr-56 sm-hidden">&zwnj;</td>
+                <td class="w-1-2 sm-block sm-w-full pt-20 pb-40 align-top" style="border-top: 1px solid #FFFFFF;">
+                  <p class="m-0 text-xl font-semibold">Up to 4TB of SSD storage.<sup class="leading-0 text-xs">2</sup></p>
+                </td>
+              </tr>
+              <tr>
+                <td class="w-1-2 sm-block sm-w-full pt-20 pb-40 align-top" style="border-top: 1px solid #FFFFFF;">
+                  <p class="m-0 text-xl font-semibold">Apple T2 chip for enhanced security and Hey Siri.</p>
+                </td>
+                <td class="pr-56 sm-hidden">&zwnj;</td>
+                <td class="w-1-2 sm-block sm-w-full pt-20 pb-40 align-top" style="border-top: 1px solid #FFFFFF;">
+                  <p class="m-0 text-xl font-semibold">Retina display with True Tone technology.</p>
+                </td>
+              </tr>
+            </table>
+            <div class="leading-40 sm-hidden">&zwnj;</div>
+            <div class="text-center sm-text-left">
+              <a href="http://c.apple.com/r?v=2&la=en&lc=usa&a=z2%2Bnb8HWCoHziyJtbRYNxDd%2FkgyZjZvGSC81JOPXnyokEbkZLtBGart68%2F85LQVBLprGbyJByCuPctWd3EDCGVtqY4LbdPU3lqLVNk2yQNMR2nj%2FWPomp4pGEkIxFTfNufBCEZV%2FDaC2csTEqukhgjITNPAqA3LKtZ2DixsNytyZQTHQT7YUEn879r30D6h%2Bd3f3weAvZ%2FcAsK1L%2FXCrtw%3D%3D&ct=aI8g4I4C2N" class="text-apple-text-link text-lg leading-24 no-underline hover-underline">
+                Learn more about <span class="sm-block">MacBook Pro<img src="https://images.apple.com/dm/us/18/B7C71427-ABF0-41AB-9DD0-DA6DCC17A316/i/38_chevron_6bf_alpha_2x.png" width="12" alt=""></span>
+              </a>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td class="pb-80 sm-p-0">
+            <div class="leading-80 sm-hidden">&zwnj;</div>
+            <a class="block sm-bg-mbp-comparison" href="http://c.apple.com/r?v=2&la=en&lc=usa&a=z2%2Bnb8HWCoHziyJtbRYNxDd%2FkgyZjZvGSC81JOPXnyokEbkZLtBGart68%2F85LQVBLprGbyJByCuPctWd3EDCGVtqY4LbdPU3lqLVNk2yQNMR2nj%2FWPomp4pGEkIxFTfNufBCEZV%2FDaC2csTEqukhgjITNPAqA3LKtZ2DixsNytyZQTHQT7YUEn879r30D6h%2Bd3f3weAvZ%2FcAsK1L%2FXCrtw%3D%3D&ct=aI8J8V6B2v">
+              <img class="sm-hidden" src="https://images.apple.com/dm/us/18/B7C71427-ABF0-41AB-9DD0-DA6DCC17A316/i/macbookpros_02_2x.jpg" alt="Macbook Pro model comparison" width="720">
+            </a>
+          </td>
+        </tr>
+      </table>
+
+    </td>
+  </tr>
+</table>
+
+<table class="wrapper w-full bg-apple-mbp-grey-darker font-apple-body" cellpadding="0" cellspacing="0" role="presentation">
+  <tr>
+    <td align="center" class="w-full">
+
+      <table class="sm-w-full" cellpadding="0" cellspacing="0" role="presentation" width="720">
+        <tr>
+          <td align="center" class="all-font-roboto pt-80 sm-pt-48 px-180 sm-px-20">
+            <span class="text-apple-mbp-body text-base font-semibold">Apple GiveBack</span>
+            <h2 class="text-white text-3xl leading-40 mt-8 mb-32 font-semibold">
+              Up to $1000 for your current computer.<sup class="leading-0 text-base">3</sup>
+            </h2>
+          </td>
+        </tr>
+        <tr>
+          <td align="center" class="pb-24 px-128 sm-px-20">
+            <p class="m-0 text-lg text-apple-mbp-body font-apple-body">Just trade in your eligible computer with Apple GiveBack. It’s good for you and the planet.</p>
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <a href="http://c.apple.com/r?v=2&la=en&lc=usa&a=z2%2Bnb8HWCoHziyJtbRYNxDd%2FkgyZjZvGSC81JOPXnyokEbkZLtBGart68%2F85LQVBLprGbyJByCuPctWd3EDCGVtqY4LbdPU3lqLVNk2yQNMR2nj%2FWPomp4pGEkIxFTfNufBCEZV%2FDaC2csTEqukhgjITNPAqA3LKtZ2DixsNytyZQTHQT7YUEn879r30D6h%2Bd3f3weAvZ%2FcAsK1L%2FXCrtw%3D%3D&ct=aI1H7a0u6v" class="text-apple-text-link text-lg leading-24 no-underline hover-underline">
+              <span>See how it works<img src="https://images.apple.com/dm/us/18/B7C71427-ABF0-41AB-9DD0-DA6DCC17A316/i/38_chevron_6bf_alpha_2x.png" width="12" alt=""></span></span>
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td class="py-40 sm-py-24"></td>
+        </tr>
+        <tr>
+          <td class="px-30 pb-48 sm-p-0">
+            <table class="w-full" cellpadding="0" cellspacing="0" role="presentation">
+              <tr>
+                <td class="w-1-2 sm-block sm-w-full align-top">
+                  <table class="w-full" cellpadding="0" cellspacing="0" role="presentation">
+                    <tr>
+                      <td class="bg-apple-card px-24 py-48 sm-py-24">
+                        <h3 class="text-white text-xl all-font-roboto font-semibold">
+                          <a href="" class="text-white no-underline">Unleash your creativity.</a>
+                        </h3>
+                        <p class="m-0 mb-12">
+                          <a href="http://c.apple.com/r?v=2&la=en&lc=usa&a=z2%2Bnb8HWCoHziyJtbRYNxDd%2FkgyZjZvGSC81JOPXnyokEbkZLtBGart68%2F85LQVBLprGbyJByCuPctWd3EDCGVtqY4LbdPU3lqLVNk2yQNMR2nj%2FWPomp4pGEkIxFTfNufBCEZV%2FDaC2csTEqukhgjITNPAqA3LKtZ2DixsNytyZQTHQT7YUEn879r30D6h%2Bd3f3weAvZ%2FcAsK1L%2FXCrtw%3D%3D&ct=aI1H4E6u3p" class="text-apple-card-grey text-sm no-underline">Explore Today at Apple sessions in photography, video, and music. New programming happening in stores every day.</a>
+                        </p>
+                        <a href="http://c.apple.com/r?v=2&la=en&lc=usa&a=z2%2Bnb8HWCoHziyJtbRYNxDd%2FkgyZjZvGSC81JOPXnyokEbkZLtBGart68%2F85LQVBLprGbyJByCuPctWd3EDCGVtqY4LbdPU3lqLVNk2yQNMR2nj%2FWPomp4pGEkIxFTfNufBCEZV%2FDaC2csTEqukhgjITNPAqA3LKtZ2DixsNytyZQTHQT7YUEn879r30D6h%2Bd3f3weAvZ%2FcAsK1L%2FXCrtw%3D%3D&ct=aI1H7a0u6v" class="text-apple-text-link text-sm leading-24 no-underline hover-underline">
+                          <span>See what's happening near you<img src="https://images.apple.com/dm/us/18/B7C71427-ABF0-41AB-9DD0-DA6DCC17A316/i/38_chevron_6bf_alpha_2x.png" width="8" alt=""></span></span>
+                        </a>
+                        <div class="leading-40 sm-h-24">&zwnj;</div>
+                        <div>
+                          <a href="http://c.apple.com/r?v=2&la=en&lc=usa&a=z2%2Bnb8HWCoHziyJtbRYNxDd%2FkgyZjZvGSC81JOPXnyokEbkZLtBGart68%2F85LQVBLprGbyJByCuPctWd3EDCGVtqY4LbdPU3lqLVNk2yQNMR2nj%2FWPomp4pGEkIxFTfNufBCEZV%2FDaC2csTEqukhgjITNPAqA3LKtZ2DixsNytyZQTHQT7YUEn879r30D6h%2Bd3f3weAvZ%2FcAsK1L%2FXCrtw%3D%3D&ct=aI1e2w5c3p">
+                            <img src="https://images.apple.com/dm/us/18/B7C71427-ABF0-41AB-9DD0-DA6DCC17A316/i/creativity_tile_01_2x.jpg" width="273" alt="">
+                          </a>
+                        </div>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+                <td class="pr-24 sm-hidden">&zwnj;</td>
+                <td class="w-1-2 sm-block sm-w-full align-top">
+                  <table class="w-full" cellpadding="0" cellspacing="0" role="presentation">
+                    <tr>
+                      <td class="bg-apple-card px-24 pt-48 sm-pt-0">
+                        <h3 class="text-white text-xl all-font-roboto font-semibold">
+                          <a href="http://c.apple.com/r?v=2&la=en&lc=usa&a=z2%2Bnb8HWCoHziyJtbRYNxDd%2FkgyZjZvGSC81JOPXnyokEbkZLtBGart68%2F85LQVBLprGbyJByCuPctWd3EDCGVtqY4LbdPU3lqLVNk2yQNMR2nj%2FWPomp4pGEkIxFTfNufBCEZV%2FDaC2csTEqukhgjITNPAqA3LKtZ2DixsNytyZQTHQT7YUEn879r30D6h%2Bd3f3weAvZ%2FcAsK1L%2FXCrtw%3D%3D&ct=aI8J1q7K1P" class="text-white no-underline">Buy a Mac.<br>Get Beats Solo3 <br>Wireless on us.</a>
+                        </h3>
+                        <p class="m-0 mb-12">
+                          <a href="" class="text-apple-card-grey text-sm no-underline">Available to students, their parents, faculty, and staff.</a>
+                        </p>
+                        <a href="http://c.apple.com/r?v=2&la=en&lc=usa&a=z2%2Bnb8HWCoHziyJtbRYNxDd%2FkgyZjZvGSC81JOPXnyokEbkZLtBGart68%2F85LQVBLprGbyJByCuPctWd3EDCGVtqY4LbdPU3lqLVNk2yQNMR2nj%2FWPomp4pGEkIxFTfNufBCEZV%2FDaC2csTEqukhgjITNPAqA3LKtZ2DixsNytyZQTHQT7YUEn879r30D6h%2Bd3f3weAvZ%2FcAsK1L%2FXCrtw%3D%3D&ct=aI1H7a0u6v" class="text-apple-text-link text-sm leading-24 no-underline hover-underline">
+                          <span>Shop the Apple Education Store<img src="https://images.apple.com/dm/us/18/B7C71427-ABF0-41AB-9DD0-DA6DCC17A316/i/38_chevron_6bf_alpha_2x.png" width="8" alt=""></span></span>
+                        </a>
+                        <div class="leading-32 sm-h-24">&zwnj;</div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="center" class="bg-apple-card pb-48 sm-pb-48">
+                        <a href="http://c.apple.com/r?v=2&la=en&lc=usa&a=z2%2Bnb8HWCoHziyJtbRYNxDd%2FkgyZjZvGSC81JOPXnyokEbkZLtBGart68%2F85LQVBLprGbyJByCuPctWd3EDCGVtqY4LbdPU3lqLVNk2yQNMR2nj%2FWPomp4pGEkIxFTfNufBCEZV%2FDaC2csTEqukhgjITNPAqA3LKtZ2DixsNytyZQTHQT7YUEn879r30D6h%2Bd3f3weAvZ%2FcAsK1L%2FXCrtw%3D%3D&ct=aI1r4n4r9P">
+                          <img src="https://images.apple.com/dm/us/18/B7C71427-ABF0-41AB-9DD0-DA6DCC17A316/i/college_tile_02_2x.jpg" width="301" alt="">
+                        </a>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+
+    </td>
+  </tr>
+</table>
+
+<table class="wrapper w-full bg-apple-footer-bg font-apple-body" cellpadding="0" cellspacing="0" role="presentation">
+  <tr>
+    <td align="center" class="w-full pt-80 pb-40 sm-pt-40">
+
+      <table class="sm-w-full" cellpadding="0" cellspacing="0" role="presentation" width="720">
+        <tr>
+          <td class="px-48 sm-p-0">
+            <table class="w-full" cellpadding="0" cellspacing="0" role="presentation">
+              <tr>
+                <td class="w-1-3 sm-block sm-w-full px-24 sm-pb-24">
+                  <h4 class="m-0 mb-4 leading-24 text-lg text-apple-mbp-footer">Free two-day delivery</h4>
+                  <p class="m-0 mb-12 text-sm text-apple-mbp-footer">On in-stock items ordered by 5:00 p.m.</p>
+                  <a href="http://c.apple.com/r?v=2&la=en&lc=usa&a=z2%2Bnb8HWCoHziyJtbRYNxDd%2FkgyZjZvGSC81JOPXnyokEbkZLtBGart68%2F85LQVBLprGbyJByCuPctWd3EDCGVtqY4LbdPU3lqLVNk2yQNMR2nj%2FWPomp4pGEkIxFTfNufBCEZV%2FDaC2csTEqukhgjITNPAqA3LKtZ2DixsNytyZQTHQT7YUEn879r30D6h%2Bd3f3weAvZ%2FcAsK1L%2FXCrtw%3D%3D&ct=aI1t4c4D8M" class="text-apple-text-link text-sm leading-24 no-underline hover-underline">
+                    <span>Learn more<img src="https://images.apple.com/dm/us/18/B7C71427-ABF0-41AB-9DD0-DA6DCC17A316/i/38_chevron_6bf_alpha_2x.png" width="8" alt=""></span>
+                  </a>
+                </td>
+                <td class="w-1-3 sm-block sm-w-full px-24 sm-pb-24">
+                  <h4 class="m-0 mb-8 leading-24 text-lg text-apple-mbp-footer">Apple Store app</h4>
+                  <p class="m-0 mb-12 text-sm text-apple-mbp-footer">The best way to shop for MacBook Pro, accessories, and more.</p>
+                  <a href="http://c.apple.com/r?v=2&la=en&lc=usa&a=z2%2Bnb8HWCoHziyJtbRYNxDd%2FkgyZjZvGSC81JOPXnyokEbkZLtBGart68%2F85LQVBLprGbyJByCuPctWd3EDCGVtqY4LbdPU3lqLVNk2yQNMR2nj%2FWPomp4pGEkIxFTfNufBCEZV%2FDaC2csTEqukhgjITNPAqA3LKtZ2DixsNytyZQTHQT7YUEn879r30D6h%2Bd3f3weAvZ%2FcAsK1L%2FXCrtw%3D%3D&ct=aI1r5V8V5h" class="text-apple-text-link text-sm leading-24 no-underline hover-underline">
+                    <span>Download<img src="https://images.apple.com/dm/us/18/B7C71427-ABF0-41AB-9DD0-DA6DCC17A316/i/38_chevron_6bf_alpha_2x.png" width="8" alt=""></span>
+                  </a>
+                </td>
+                <td class="w-1-3 sm-block sm-w-full px-24 sm-pb-24">
+                  <h4 class="m-0 mb-8 leading-24 text-lg text-apple-mbp-footer">Special financing</h4>
+                  <p class="m-0 mb-12 text-sm text-apple-mbp-footer">Apply for special financing on MacBook Pro and earn rewards.</p>
+                  <a href="http://c.apple.com/r?v=2&la=en&lc=usa&a=z2%2Bnb8HWCoHziyJtbRYNxDd%2FkgyZjZvGSC81JOPXnyokEbkZLtBGart68%2F85LQVBLprGbyJByCuPctWd3EDCGVtqY4LbdPU3lqLVNk2yQNMR2nj%2FWPomp4pGEkIxFTfNufBCEZV%2FDaC2csTEqukhgjITNPAqA3LKtZ2DixsNytyZQTHQT7YUEn879r30D6h%2Bd3f3weAvZ%2FcAsK1L%2FXCrtw%3D%3D&ct=aI1t3c7j9P" class="text-apple-text-link text-sm leading-24 no-underline hover-underline">
+                    <span>Learn more<img src="https://images.apple.com/dm/us/18/B7C71427-ABF0-41AB-9DD0-DA6DCC17A316/i/38_chevron_6bf_alpha_2x.png" width="8" alt=""></span>
+                  </a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td class="px-30 pt-40 sm-pt-4">
+            <table class="w-full" cellpadding="0" cellspacing="0" role="presentation">
+              <tr>
+                <td align="center" class="py-16 leading-0 sm-leading-full sm-border-0" style="border-top: 1px solid #444444; border-bottom: 1px solid #444444;">
+                  <table class="sm-text-center sm-w-full" cellpadding="0" cellspacing="0" role="presentation">
+                    <tr>
+                      <td class="px-12 sm-block sm-w-full sm-border-t sm-border-b-0 sm-border-apple-mbp-footer-border sm-border-solid sm-border-r-0 sm-border-l-0" style="border-right: 1px solid #cbcbcb;">
+                        <a href="http://c.apple.com/r?v=2&la=en&lc=usa&a=z2%2Bnb8HWCoHziyJtbRYNxDd%2FkgyZjZvGSC81JOPXnyokEbkZLtBGart68%2F85LQVBLprGbyJByCuPctWd3EDCGVtqY4LbdPU3lqLVNk2yQNMR2nj%2FWPomp4pGEkIxFTfNufBCEZV%2FDaC2csTEqukhgjITNPAqA3LKtZ2DixsNytyZQTHQT7YUEn879r30D6h%2Bd3f3weAvZ%2FcAsK1L%2FXCrtw%3D%3D&ct=aI1e9V2p4P" class="sm-py-12 sm-block leading-14 text-apple-mbp-footer text-sm no-underline hover-underline">Shop Online</a>
+                      </td>
+                      <td class="px-12 sm-block sm-w-full sm-border-t sm-border-b-0 sm-border-apple-mbp-footer-border sm-border-solid sm-border-r-0 sm-border-l-0" style="border-right: 1px solid #cbcbcb;">
+                        <a href="http://c.apple.com/r?v=2&la=en&lc=usa&a=z2%2Bnb8HWCoHziyJtbRYNxDd%2FkgyZjZvGSC81JOPXnyokEbkZLtBGart68%2F85LQVBLprGbyJByCuPctWd3EDCGVtqY4LbdPU3lqLVNk2yQNMR2nj%2FWPomp4pGEkIxFTfNufBCEZV%2FDaC2csTEqukhgjITNPAqA3LKtZ2DixsNytyZQTHQT7YUEn879r30D6h%2Bd3f3weAvZ%2FcAsK1L%2FXCrtw%3D%3D&ct=aI1K5b8N8v" class="sm-py-12 sm-block leading-14 text-apple-mbp-footer text-sm no-underline hover-underline">Find a Store</a>
+                      </td>
+                      <td class="px-12 sm-block sm-w-full sm-border-t sm-border-b-0 sm-border-apple-mbp-footer-border sm-border-solid sm-border-r-0 sm-border-l-0" style="border-right: 1px solid #cbcbcb;">
+                        <span class="sm-py-12 sm-block leading-14 text-apple-mbp-footer text-sm">1-800-MY-APPLE</span>
+                      </td>
+                      <td class="px-12 sm-block sm-w-full sm-border-t sm-border-b sm-border-apple-mbp-footer-border sm-border-solid sm-border-r-0 sm-border-l-0">
+                        <a href="http://c.apple.com/r?v=2&la=en&lc=usa&a=z2%2Bnb8HWCoHziyJtbRYNxDd%2FkgyZjZvGSC81JOPXnyokEbkZLtBGart68%2F85LQVBLprGbyJByCuPctWd3EDCGVtqY4LbdPU3lqLVNk2yQNMR2nj%2FWPomp4pGEkIxFTfNufBCEZV%2FDaC2csTEqukhgjITNPAqA3LKtZ2DixsNytyZQTHQT7YUEn879r30D6h%2Bd3f3weAvZ%2FcAsK1L%2FXCrtw%3D%3D&ct=aI8g9i9h0C" class="sm-py-12 sm-block leading-14 text-apple-mbp-footer text-sm no-underline hover-underline">Get the Apple Store App</a>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+              <tr>
+                <td class="text-apple-mbp-footer-legal text-xxs pt-16">
+                  <p>1. Compared with the previous generation.</p>
+                  <p>2. 1TB = 1 trillion bytes; actual formatted capacity less.</p>
+                  <p>
+                    3. Trade-in values will vary based on the condition, year, and configuration of your trade-in device.
+                    You must be at least 18 years old to be eligible to trade in for credit or for an Apple Store Gift Card.
+                    Not all devices are eligible for credit. More details are available from Apple’s Mac <a href="https://example.com" class="text-apple-mbp-footer no-underline hover-underline">trade‑in partner</a>
+                    and Apple’s iPhone, iPad, and Apple Watch <a href="https://example.com" class="text-apple-mbp-footer no-underline hover-underline">trade‑in partner</a> for trade-in and recycling of eligible devices.
+                    Restrictions and limitations may apply. Payments are based on the received device matching the description
+                    you provided when your estimate was made. Apple reserves the right to refuse or limit the quantity of any
+                    device for any reason. In the <a href="https://example.com" class="text-apple-mbp-footer no-underline hover-underline">Apple Store</a>: Offer only available on presentation of a valid, government-issued
+                    photo ID (local law may require saving this information). Value of your current device may be applied toward
+                    purchase of a new Apple device. Offer may not be available in all stores. Some stores may have additional requirements.
+                  </p>
+                  <p>The Touch Bar, True Tone, and the Apple T2 chip are available on select models.</p>
+                  <p>TM and &copy; 2018 Apple Inc. One Apple Park Way, MS 96-DM, Cupertino, CA 95014.</p>
+                  <table class="leading-0" cellpadding="0" cellspacing="0" role="presentation">
+                    <tr>
+                      <td class="pr-12 sm-block sm-px-0 sm-py-8 sm-border-0" style="border-right: 1px solid #666666;">
+                        <a href="https://www.apple.com/legal/" class="leading-12 text-apple-mbp-footer text-xxs no-underline hover-underline">All Rights Reserved</a>
+                      </td>
+                      <td class="px-12 sm-block sm-px-0 sm-py-8 sm-border-0" style="border-right: 1px solid #666666;">
+                        <a href="https://www.apple.com/legal/privacy/en-ww/" class="leading-12 text-apple-mbp-footer text-xxs no-underline hover-underline">Privacy Policy</a>
+                      </td>
+                      <td class="pl-12 sm-block sm-px-0 sm-py-8">
+                        <a href="https://appleid.apple.com/" class="leading-12 text-apple-mbp-footer text-xxs no-underline hover-underline">My Apple ID</a>
+                      </td>
+                    </tr>
+                  </table>
+                  <p>If you prefer not to receive commercial email from Apple, or if you've changed your email address, please <a href="https://example.com" class="text-apple-mbp-footer no-underline hover-underline">click here</a>.</p>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>

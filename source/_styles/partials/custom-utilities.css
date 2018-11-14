@@ -49,3 +49,34 @@
     transform: scale(1.1);
   }
 }
+
+.bg-gradient-apple-cta {
+  background-color: #0070c9;
+  background: linear-gradient(#42a1ec, #0070c9);
+}
+.bg-gradient-apple-cta:hover {
+  background-color: #42a1ec !important;
+  background: linear-gradient(#51a9ee, #147bcd) !important;
+}
+
+.bg-mbp-backdrop {
+  @apply bg-no-repeat bg-cover bg-center;
+  background-image: url('https://res.cloudinary.com/maizzle/image/upload/v1542190984/remix/apple-mbp/mbp-backdrop.jpg');
+  height: 281px;
+}
+
+
+@screen sm {
+  .bg-mbp-backdrop {
+    @apply h-full bg-auto mt-4;
+    background-position: 50% 40px;
+  }
+
+  .sm-bg-mbp-comparison {
+    @apply bg-no-repeat w-full;
+    background-position: center 30px;
+    background-size: 735px 330px;
+    background-image: url('https://images.apple.com/dm/us/18/B7C71427-ABF0-41AB-9DD0-DA6DCC17A316/i/m_macbookpros_02_2x.jpg');
+    height: 380px;
+  }
+}

@@ -71,6 +71,22 @@ let colors = {
   // Rockstar RDR2
   'rdr2-red': '#cc0000',
 
+  // Apple Macbook Pro
+  'apple-black': '#121217',
+  'apple-card': '#18181c',
+  'apple-card-grey': '#ccc',
+  'apple-footer-bg': '#333333',
+  'apple-mbp-footer-border': '#444444',
+  'apple-mbp-body': '#888888',
+  'apple-mbp-footer': '#999999',
+  'apple-mbp-footer-legal': '#666666',
+  'apple-mbp-grey-dark': '#63636e',
+  'apple-mbp-grey-darker': '#1e1e21',
+  'apple-cta': '#0070c9',
+  'apple-text-link': '#6bf',
+  'apple-cta-border-dark': '#07c',
+  'apple-cta-border-light': '#1482d0',
+
   'transparent': 'transparent',
   'inherit': 'inherit',
 
@@ -398,6 +414,7 @@ module.exports = {
     '40': '40px',
     '48': '48px',
     '64': '64px',
+    '80': '80px',
     '128': '128px',
     'full': '100%',
   },
@@ -774,13 +791,16 @@ module.exports = {
     '20': '20px',
     '24': '24px',
     '26': '26px',
+    '30': '30px',
     '32': '32px',
     '40': '40px',
     '48': '48px',
     '56': '56px',
     '60': '60px',
     '64': '64px',
+    '80': '80px',
     '128': '128px',
+    '180': '180px',
     '256': '256px',
   },
 
