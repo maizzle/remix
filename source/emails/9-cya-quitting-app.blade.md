@@ -1,0 +1,146 @@
+---
+title: Cya!, the app for quitters
+preheader: A fictional app demo UI by @adamwathan for @VueToronto 2018
+googleFonts: ['Pacifico']
+---
+
+@push('head')
+<style>
+  @media screen {
+    .font-pacifico {
+      font-family: 'Pacifico', cursive;
+    }
+  }
+  @media (max-width: 600px) {
+    .sm-bg-quote {
+      background-image: url('https://res.cloudinary.com/maizzle/image/upload/v1542277275/remix/cya/quote-1x-gaaah.jpg');
+      background-repeat: no-repeat;
+      background-size: 77px;
+    }
+  }
+</style>
+@endpush
+
+<table class="wrapper w-full all-font-sans" cellpadding="0" cellspacing="0" role="presentation">
+  <tr>
+    <td align="center" class="w-full py-40 sm-p-16">
+
+      <table class="w-600 sm-w-full" cellpadding="0" cellspacing="0" role="presentation">
+        <tr>
+          <td>
+            <table class="w-full" cellpadding="0" cellspacing="0" role="presentation">
+              <tr>
+                <td class="w-1-2">
+                  <h1 class="text-indigo text-4xl m-0 font-pacifico">Cya!</h1>
+                </td>
+                <td align="right" class="w-1-2">
+                  <table cellpadding="0" cellspacing="0" role="presentation">
+                    <tr>
+                      <td class="pr-16">
+                        <a href="https://example.com" class="text-grey-darker hover-text-grey-dark text-lg no-underline">Login</a>
+                      </td>
+                      <td>
+                        <a href="https://example.com" class="text-grey-darker hover-text-grey-dark text-lg no-underline">Sign up</a>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td class="text-center pt-80 pb-40 sm-py-32">
+            <h2 class="text-black text-6xl sm-text-5xl font-sans leading-64 sm-leading-48 m-0">Quitting your job, <br class="sm-hidden"><span class="text-indigo">made easy.</span></h2>
+          </td>
+        </tr>
+        <tr>
+          <td class="pb-40">
+            <a href="https://example.com" class="no-underline">
+              <img src="https://res.cloudinary.com/maizzle/image/upload/v1542274232/remix/cya/cya-quitting-time.jpg" width="600" alt="Quitting Time by Katerina Limpitsouni on undraw.co">
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table class="w-full" cellpadding="0" cellspacing="0" role="presentation">
+              <tr>
+                <td class="w-1-6 sm-block sm-w-full sm-pb-16 align-top">
+                  <img src="https://res.cloudinary.com/maizzle/image/upload/v1542276127/remix/cya/cog.png" width="54" alt="">
+                </td>
+                <td class="w-5-6 sm-block sm-w-full">
+                  <h3 class="text-black text-28px leading-full m-0 mb-16">Fully automated</h3>
+                  <p class="text-lg text-grey-darker leading-28 m-0">Simply give us your boss's email address and we'll handle the rest. We'll even clean out your desk so you can avoid awkward confrontation.</p>
+                </td>
+              </tr>
+              <tr>
+                <td colspan="2" class="h-48 sm-h-32"></td>
+              </tr>
+              <tr>
+                <td class="w-1-6 sm-block sm-w-full sm-pb-16 align-top">
+                  <img src="https://res.cloudinary.com/maizzle/image/upload/v1542276127/remix/cya/lock.png" width="54" alt="">
+                </td>
+                <td class="w-5-6 sm-block sm-w-full">
+                  <h3 class="text-black text-28px leading-full m-0 mb-16">Totally anonymous</h3>
+                  <p class="text-lg text-grey-darker leading-28 m-0">Your boss will never find out that you're the person who quite. Well until you stop showing up for work, then they'll know.</p>
+                </td>
+              </tr>
+              <tr>
+                <td colspan="2" class="h-48 sm-h-32"></td>
+              </tr>
+              <tr>
+                <td class="w-1-6 sm-block sm-w-full sm-pb-16 align-top">
+                  <img src="https://res.cloudinary.com/maizzle/image/upload/v1542276127/remix/cya/currency-dollar.png" width="54" alt="">
+                </td>
+                <td class="w-5-6 sm-block sm-w-full">
+                  <h3 class="text-black text-28px leading-full m-0 mb-16">Free for quitters</h3>
+                  <p class="text-lg text-grey-darker leading-28 m-0">We send the bill to your next employer, not to you.</p>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+
+      <table class="sm-w-full" cellpadding="0" cellspacing="0" role="presentation" width="700">
+        <tr>
+          <td class="h-48 sm-h-32" colspan="2"></td>
+        </tr>
+        <tr>
+          <td class="align-top sm-hidden" width="77">
+            <img src="https://res.cloudinary.com/maizzle/image/upload/v1542277275/remix/cya/quote-1x-gaaah.jpg" width="77" alt="">
+          </td>
+          <td class="sm-bg-quote px-16 py-20 align-top" width="623">
+            <p class="text-indigo-darker font-serif text-26px sm-text-xl italic m-0">I couldn't believe how easy it was. One minute my boss was handling me an Angular 1 project to maintain, and a few clicks later I was free!</p>
+            <table class="w-full" cellpadding="0" cellspacing="0" role="presentation">
+              <tr>
+                <td class="h-24 sm-h-12" colspan="2"></td>
+              </tr>
+              <tr>
+                <td class="sm-block sm-w-full" width="77">
+                  <img src="https://res.cloudinary.com/maizzle/image/upload/v1542280425/remix/cya/aw.jpg" class="rounded-full" width="60" alt="">
+                </td>
+                <td class="sm-pl-12">
+                  <h6 class="text-indigo text-lg sm-text-base font-semibold m-0">Adam Wathan</h6>
+                  <p class="text-grey-darker text-lg sm-text-base m-0">Now unemployed software developer</p>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td class="py-64 px-48 sm-px-0 sm-py-32" colspan="2">
+            <table class="w-full" cellpadding="0" cellspacing="0" role="presentation">
+              <tr>
+                <th class="bg-indigo hover-bg-indigo-dark rounded shadow-md" style="mso-padding-alt: 24px 48px;">
+                  <a href="https://example.com" class="block text-white text-2xl sm-text-xl font-semibold leading-full py-24 px-48 no-underline">Sign up and quit today</a>
+                </th>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+
+    </td>
+  </tr>
+</table>
