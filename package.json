@@ -1,41 +1,14 @@
 {
   "private": true,
   "scripts": {
-    "local": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --env=local --config=node_modules/laravel-mix/setup/webpack.config.js",
-    "production": "cross-env NODE_ENV=production node_modules/webpack/bin/webpack.js --progress --hide-modules --env=production --config=node_modules/laravel-mix/setup/webpack.config.js",
-    "dev": "npm run local",
-    "prod": "npm run production",
-    "watch": "npm run local -- --watch",
-    "screenshot": "node ./tasks/js/screenshot.js"
+    "build": "maizzle build",
+    "build staging": "maizzle build staging",
+    "build production": "maizzle build production",
+    "watch": "maizzle serve"
   },
-  "devDependencies": {
-    "browser-sync": "2.26.3",
-    "browser-sync-webpack-plugin": "2.2.2",
-    "color-shorthand-hex-to-six-digit": "2.1.1",
-    "cross-env": "3.2.4",
-    "css-mqpacker": "7.0.0",
-    "email-remove-unused-css": "4.6.1",
-    "glob-all": "3.1.0",
-    "hasbin": "1.2.3",
-    "html-img-alt": "1.3.2",
-    "html-minifier": "3.5.20",
-    "is-url": "1.2.4",
-    "juice": "5.0.1",
-    "laravel-mix": "2.1.11",
-    "laravel-mix-purgecss": "3.0.0",
-    "mkdirp": "0.5.1",
-    "node-cmd": "3.0.0",
-    "on-build-webpack": "0.1.0",
-    "postcss-import": "12.0.1",
-    "postcss-merge-longhand": "4.0.6",
-    "pretty": "2.0.0",
-    "purgecss-webpack-plugin": "^1.4.0",
-    "requireg": "0.1.8",
-    "slugify": "1.3.0",
-    "string-strip-html": "3.2.0",
-    "tailwindcss": "0.7.2",
-    "webpack-watch": "0.2.0",
-    "yargs": "4.8.1"
+  "dependencies": {
+    "@maizzle/framework": "^0.1.1",
+    "tailwindcss-gradients": "^1.1.0"
   },
   "browserslist": [
     "> 1%"

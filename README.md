@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://maizzle.com/" target="_blank"><img width="256" src="https://maizzle.com/img/maizzle.png" alt="Maizzle"></a>
+    <a href="https://maizzle.com/" target="_blank"><img width="200" src="https://res.cloudinary.com/maizzle/image/upload/v1553710263/maizzle.svg" alt="Maizzle"></a>
     <br>
     <strong>REMIX</strong>
 </p>
@@ -14,13 +14,13 @@ It provides examples of using [Maizzle](https://maizzle.com/) to rebuild really 
 
 ## Purpose
 
-The goal is to show the importance of clean code in email development, and how an optimized workflow (like Maizzle!) can help you stay organized and automate many tedious tasks, such as writing inline CSS or working with a design system.
+The goal is to show the importance of clean code in email development, and how an optimized workflow can help you stay organized and automate many tedious tasks, such as writing inline CSS or working with a design system.
 
 The goal is definitely _not_ to tell anyone how they should code their emails. Use as inspiration, not as 'best practice'.
 
-## Rules
+## Guidelines
 
-These are the rules that any Maizzle REMIX needs to follow.
+These are the guidelines that any Maizzle REMIX needs to follow.
 
 #### Privacy & Security
 
