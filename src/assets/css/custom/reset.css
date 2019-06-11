@@ -1,3 +1,4 @@
+/*! purgecss start ignore */
 @screen all {
   img {
     @apply max-w-full;
@@ -7,12 +8,14 @@
     box-sizing: border-box;
   }
 
-  u ~ div .wrapper {
-    @apply min-w-screen;
-  }
-
   a[x-apple-data-detectors] {
     @apply text-inherit no-underline;
+  }
+}
+
+@screen sm {
+  u ~ div .wrapper {
+    @apply min-w-screen;
   }
 }
 
@@ -27,3 +30,4 @@ img {
   border: 0;
   @apply leading-full align-middle;
 }
+/*! purgecss end ignore */
