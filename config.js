@@ -154,6 +154,17 @@ module.exports = {
 
     /*
     |-----------------------------------------------------------------------------
+    | Replace strings       https://maizzle.com/docs/code-cleanup/#replacestrings
+    |-----------------------------------------------------------------------------
+    |
+    | Regular expressions [key] and the string to replace them with [value].
+    |
+    */
+
+    replaceStrings: false,
+
+    /*
+    |-----------------------------------------------------------------------------
     | Keep Only Attribute Sizes
     | https://maizzle.com/docs/code-cleanup/#keeponlyattributesizes
     |-----------------------------------------------------------------------------
@@ -233,12 +244,12 @@ module.exports = {
   | Minify                                     https://maizzle.com/docs/minify/
   |-----------------------------------------------------------------------------
   |
-  | Configure html-minifier options. Use in production emails.
+  | Enable and configure minifier options. Enable for production builds.
   |
   */
 
   minify: {
-    removeEmptyAttributes: true,
+    enabled: false,
   },
 
   /*

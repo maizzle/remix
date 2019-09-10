@@ -13,6 +13,9 @@ module.exports = {
     removeUnusedCSS: {
       enabled: true,
     },
+    replaceStrings: {
+      '\\s?style=""': '',
+    },
     preferBgColorAttribute: true,
   },
 
