@@ -1,22 +1,16 @@
-<p align="center">
-    <a href="https://maizzle.com/" target="_blank"><img width="200" src="https://res.cloudinary.com/maizzle/image/upload/v1553710263/maizzle.svg" alt="Maizzle"></a>
-    <br>
-    <strong>REMIX</strong>
-</p>
-
-------
+![Maizzle REMIX](https://res.cloudinary.com/maizzle/image/upload/v1568649281/remix/cover.jpg)
 
 ## Description
 
 Maizzle REMIX is a showcase of email redesign experiments.
 
-It provides examples of using [Maizzle](https://maizzle.com/) to rebuild really good looking emails from scratch.
+It provides examples of using [Maizzle](https://github.com/maizzle/maizzle) to rebuild really good looking emails from scratch.
 
 ## Purpose
 
-The goal is to show the importance of clean code in email development, and how an optimized workflow can help you stay organized and automate many tedious tasks, such as writing inline CSS or working with a design system.
+The goal is to show examples of how you can use Maizzle to build great HTML emails, and how an optimized workflow can help you stay organized and automate many tedious tasks, such as writing inline CSS or working with a design system for email.
 
-The goal is definitely _not_ to tell anyone how they should code their emails. Use as inspiration, not as 'best practice'.
+The goal is definitely _not_ to tell anyone how they should code their emails.
 
 ## Guidelines
 
@@ -24,11 +18,11 @@ These are the guidelines that any Maizzle REMIX needs to follow.
 
 #### Privacy & Security
 
-- Any sensitive data, such as private content or links, will be replaced with dummy data.
+- Any sensitive data should be replaced with dummy data
 
-- Experiments will only be made on layouts that are either publicly accessible (web versions, [CodePen](https://codepen.io/maizzle), [RGE](https://reallygoodemails.com/) or [curated.email](https://curated.email/)), or that we have subscribed to and received ourselves.
+- Experiments should only be made on layouts that are either publicly accessible (web versions, [CodePen](https://codepen.io/maizzle), [RGE](https://reallygoodemails.com/) or [curated.email](https://curated.email/)), or that you have subscribed to and received
 
-- Images must be directly referenced from the online version of the original. When unavailable, they will be replaced with placeholders from an online service.
+- Images must be directly referenced from the online version of the original. When unavailable, they will be replaced with placeholders from an online service
 
 #### Built to resemble the original
 
