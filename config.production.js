@@ -14,9 +14,7 @@ module.exports = {
       enabled: true,
     },
     replaceStrings: {
-      '(\\w+=")(\\s)': '$1',
-      '\\sstyle\\s': ' ',
-      '\\sstyle>': '>',
+      '\\s(style|class)(=""|(?=>)|(?=\\s))+': '',
     },
     preferBgColorAttribute: true,
   },
