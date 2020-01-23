@@ -1,7 +1,7 @@
 module.exports = {
   prefix: '',
   important: true,
-  separator: '-',
+  separator: ':',
   theme: {
     screens: {
       all: {'raw': 'screen'},
@@ -599,7 +599,8 @@ module.exports = {
     zIndex: ['responsive'],
   },
   corePlugins: {
-    container: false
+    accessibility: false,
+    container: false,
   },
   plugins: [
     require('tailwindcss-gradients')(),
