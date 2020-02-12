@@ -4,6 +4,8 @@ preheader: A fictional app demo UI by @adamwathan for @VueToronto 2018
 googleFonts: Pacifico
 ---
 
+{% extends "src/layouts/default.njk" %}
+
 {% block head %}
 <style>
   @media screen {
@@ -28,10 +30,10 @@ googleFonts: Pacifico
           <td>
             <table class="w-full">
               <tr>
-                <td class="w-1-2">
+                <td class="w-1/2">
                   <h1 class="text-indigo-500 text-4xl m-0 font-pacifico">Cya!</h1>
                 </td>
-                <td align="right" class="w-1-2">
+                <td align="right" class="w-1/2">
                   <table>
                     <tr>
                       <td class="pr-16">
@@ -63,7 +65,7 @@ googleFonts: Pacifico
           <td>
             <table class="w-full">
               <tr>
-                <td class="w-1-6 sm:block sm:w-full sm:pb-16 align-top">
+                <td class="w-1/6 sm:block sm:w-full sm:pb-16 align-top">
                   <img src="https://res.cloudinary.com/maizzle/image/upload/v1542276127/remix/cya/cog.png" width="54">
                 </td>
                 <td class="w-5-6 sm:block sm:w-full">
@@ -75,7 +77,7 @@ googleFonts: Pacifico
                 <td colspan="2" class="h-48 sm:h-32"></td>
               </tr>
               <tr>
-                <td class="w-1-6 sm:block sm:w-full sm:pb-16 align-top">
+                <td class="w-1/6 sm:block sm:w-full sm:pb-16 align-top">
                   <img src="https://res.cloudinary.com/maizzle/image/upload/v1542276127/remix/cya/lock.png" width="54">
                 </td>
                 <td class="w-5-6 sm:block sm:w-full">
@@ -87,10 +89,10 @@ googleFonts: Pacifico
                 <td colspan="2" class="h-48 sm:h-32"></td>
               </tr>
               <tr>
-                <td class="w-1-6 sm:block sm:w-full sm:pb-16 align-top">
+                <td class="w-1/6 sm:block sm:w-full sm:pb-16 align-top">
                   <img src="https://res.cloudinary.com/maizzle/image/upload/v1542276127/remix/cya/currency-dollar.png" width="54">
                 </td>
-                <td class="w-5-6 sm:block sm:w-full">
+                <td class="w-5/6 sm:block sm:w-full">
                   <h3 class="text-black text-28px leading-full m-0 mb-16">Free for quitters</h3>
                   <p class="text-lg text-gray-600 leading-28 m-0">We send the bill to your next employer, not to you.</p>
                 </td>
