@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="x-apple-disable-message-reformatting">
   {% if page.title %}<title>{{ page.title }}</title>{% endif %}
-  {% if page.googleFonts %}<!--[if !mso]><!--><link href="https://fonts.googleapis.com/css?family={{ page.googleFonts }}" rel="stylesheet"><!--<![endif]-->{%- endif %}
+  {% if page.googleFonts %}<link href="https://fonts.googleapis.com/css?family={{ page.googleFonts }}" rel="stylesheet" media="screen">{%- endif %}
   <!--[if mso]>
   <xml>
     <o:OfficeDocumentSettings>
@@ -23,7 +23,7 @@
 </head>
 <body {% if page.bodyClass %}class="{{ page.bodyClass }}"{% endif %}>
 {% if page.preheader %}
-  <div class="hidden text-0 leading-0">{{ page.preheader }}</div>
+  <div class="hidden">{{ page.preheader }}</div>
 {% endif %}
 
 {% block template %}{% endblock %}
