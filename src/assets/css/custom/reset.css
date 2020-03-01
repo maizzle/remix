@@ -1,21 +1,11 @@
 /*! purgecss start ignore */
 @screen all {
-  img {
-    @apply max-w-full;
-  }
-
   td, th {
     box-sizing: border-box;
   }
 
   a[x-apple-data-detectors] {
     @apply text-inherit no-underline;
-  }
-}
-
-@screen sm {
-  u ~ div .wrapper {
-    @apply min-w-screen;
   }
 }
 
@@ -28,6 +18,6 @@ body {
 
 img {
   border: 0;
-  @apply leading-full align-middle;
+  @apply max-w-full leading-full align-middle;
 }
 /*! purgecss end ignore */
