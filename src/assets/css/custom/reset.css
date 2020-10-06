@@ -1,16 +1,4 @@
-/*! purgecss start ignore */
-@screen all {
-  td, th {
-    box-sizing: border-box;
-  }
-
-  a[x-apple-data-detectors] {
-    @apply text-inherit no-underline;
-  }
-}
-
 body {
-  box-sizing: border-box;
   @apply m-0 p-0 w-full;
   word-break: break-word;
   -webkit-font-smoothing: antialiased;
@@ -20,4 +8,9 @@ img {
   border: 0;
   @apply max-w-full leading-full align-middle;
 }
-/*! purgecss end ignore */
+
+@screen all {
+  a[x-apple-data-detectors] {
+    @apply text-inherit no-underline;
+  }
+}

@@ -12,22 +12,16 @@ The goal is to show examples of how you can use Maizzle to build great HTML emai
 
 The goal is definitely _not_ to tell anyone how they should code their emails.
 
-## Guidelines
+### Privacy & Security
 
-These are the guidelines that any Maizzle REMIX needs to follow.
+- Any sensitive data will be replaced with dummy data
 
-#### Privacy & Security
+- Experiments only use emails that are either publicly accessible (web versions, [CodePen](https://codepen.io/maizzle), [RGE](https://reallygoodemails.com/) or [curated.email](https://curated.email/)), or that you can subscribe to
 
-- Any sensitive data should be replaced with dummy data
+- Images are directly referenced from the online version of the original, if available. Otherwise they will be replaced with placeholders from an online service
 
-- Experiments should only be made on layouts that are either publicly accessible (web versions, [CodePen](https://codepen.io/maizzle), [RGE](https://reallygoodemails.com/) or [curated.email](https://curated.email/)), or that you have subscribed to and received
+### Responsive-only
 
-- Images must be directly referenced from the online version of the original. When unavailable, they will be replaced with placeholders from an online service
+Yes, [Hybrid coding](https://www.google.com/search?q=hybrid+email+coding&oq=hybrid+email+coding) works where `@media` queries aren't supported, but this is becoming more and more of an edge case, and it's also pretty limiting in terms of layout complexity.
 
-#### Built to resemble the original
-
-REMIXes should be as close as possible to the original's layout, color palette, and content.
-
-#### Responsive-only
-
-Yes, [Hybrid](https://www.google.com/search?q=hybrid+email+coding&oq=hybrid+email+coding) works where Responsive doesn't, but it's becoming more and more of an edge case, and it's pretty limiting. Considering the trend is to support `@media` queries in mobile email clients, Maizzle REMIX will only focus on the vast majority of cases, where responsive _is_ supported.
+Considering the trend is to support `@media` queries in mobile email clients, Maizzle REMIX will only focus on the vast majority of cases, where responsive design through `@media` queries _is_ supported.
