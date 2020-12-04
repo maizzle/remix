@@ -19,6 +19,7 @@ module.exports = {
   },
   inlineCSS: {
     enabled: true,
+    mergeLonghand: true,
   },
   prettify: {
     enabled: true,
