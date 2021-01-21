@@ -18,13 +18,8 @@ module.exports = {
     },
   },
   inlineCSS: {
-    enabled: true,
     mergeLonghand: true,
   },
-  prettify: {
-    enabled: true,
-  },
-  removeUnusedCSS: {
-    enabled: true,
-  },
+  prettify: true,
+  removeUnusedCSS: true,
 }

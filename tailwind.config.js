@@ -82,7 +82,7 @@ module.exports = {
         screen: '100vw',
         full: '100%',
         px: '1px',
-        0: 0,
+        0: '0',
         2: '2px',
         3: '3px',
         4: '4px',
@@ -175,7 +175,7 @@ module.exports = {
         helvetica: ['Helvetica', 'Arial', 'sans-serif'],
       },
       fontSize: {
-        0: 0,
+        0: '0',
         xxs: '10px',
         xs: '12px',
         sm: '14px',
@@ -234,5 +234,4 @@ module.exports = {
     placeholderOpacity: false,
     textOpacity: false,
   },
-  plugins: [],
 }
